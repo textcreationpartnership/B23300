@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some rules how to use the world so as not to abuse either that, or our selves by Francis Fuller.</title>
+            <author>Fuller, Francis, 1637?-1701.</author>
+         </titleStmt>
+         <extent>Approx. 112KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23300</idno><idno type="EEBO-CITATION">15347706</idno>
+  <idno type="VID">204176</idno>
+  <idno type="EEBO-PROQUEST">2264209908</idno>
+  
+            <idno type="STC">Wing F2384</idno>
+            <idno type="OCLC">15347706</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204176)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some rules how to use the world so as not to abuse either that, or our selves by Francis Fuller.</title>
+                  <author>Fuller, Francis, 1637?-1701.</author>
+               </titleStmt>
+               <extent>[8], 124, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Richardson for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, April 10, 1688"--T.p. verso.</note>
+                  <note>Advertisements: [3] p. at end.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life.</term>
+               <term type="topical_term">Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204176:1"/>
+            <pb facs="tcp:204176:2"/>
+            <pb facs="tcp:204176:2"/>
+            <p>Some RULES How to Use the WORLD, So as not to Abuse either That, or our Selves.</p>
+            <p>By <hi>Francis Fuller,</hi> M. A.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Richardson,</hi> for <hi>Thomas Parkhurst</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapside,</hi> near <hi>Mercers Chappel,</hi> 1688.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:204176:3"/>
+            <p>Licensed,</p>
+            <closer>
+               <dateline>
+                  <date>April 10, 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:204176:3"/>
+            <head>To the Right Honourable <hi>JOHN</hi> Earl of <hi>Exeter.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THE great and high Possessor of Heaven and Earth has Crown'd you with Riches &amp; Hon<g ref="char:EOLhyphen"/>our, rankt you among the great Ones of the World, the highest part of the dust of the Earth (as the Wise man calls the Mountains) put you into a terrestrial Paradise, encircled with e<g ref="char:EOLhyphen"/>very thing for Ornament
+<pb facs="tcp:204176:4"/> and Delight, enrich'd you with those endowments of Mind, and that sweet<g ref="char:EOLhyphen"/>ness of Nature, that may entitle you to the charac<g ref="char:EOLhyphen"/>ter of those Great Men, <hi>Socrates</hi> and <hi>Titus, the de<g ref="char:EOLhyphen"/>light of Mankind,</hi> and be<g ref="char:EOLhyphen"/>lov'd of all that know you; but yet, my Lord, upon all this Glory you may write Vanity.</p>
+            <p>It is said that some of the more devout <hi>Turks</hi> when they have seen <hi>Ma<g ref="char:EOLhyphen"/>homet</hi>'s Tomb, put out
+<pb facs="tcp:204176:4"/> their Eyes, as thinking no<g ref="char:EOLhyphen"/>thing ever after worth their beholding; and they that have lookt within the Vail, seen by Faith what is invisible to Sense, see no<g ref="char:EOLhyphen"/>thing but vanity here be<g ref="char:EOLhyphen"/>low, but they that do not, the God of this world has blinded their eyes that they cannot see afar off.</p>
+            <p>My Lord,</p>
+            <p>Your great experience at home and abroad, may have sufficiently Instruct<g ref="char:EOLhyphen"/>ed you in this Truth, and
+<pb facs="tcp:204176:5"/> thereby render'd any thing of that nature in this Treatise needless, yet with a sincere desire that as you possess the Riches and Ho<g ref="char:EOLhyphen"/>nour of this World, you may inherit the durable Riches that Wisdom gives, and the Honour that comes from God only, it is presented to your Lord<g ref="char:EOLhyphen"/>ship, as a debt due to your Great Name, but greater Worth, from</p>
+            <closer>
+               <signed>Your Lordships most humble Servant, F. Fuller.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:204176:5"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>DAvid</hi> sayes all men are Va<g ref="char:EOLhyphen"/>nity, and <hi>Solomon (Da<g ref="char:EOLhyphen"/>vid</hi>'s Son) sayes all things are so (not onely vain in the Con<g ref="char:EOLhyphen"/>crete, but Vanity in the Abstract). They, in their best State; These, in their greatest Perfection: They, altogether so, (whole Vanity); these, universally so, (Vanity of Vanities) both as to Parts and Degrees. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ratifies and seals his Assertion with a Verily and a <hi>Selah, Solomon</hi> doubles his and repeats it again to confirm the certainty of it; yea, writes a whole Book to prove his Verdict, brought in (upon his cri<g ref="char:EOLhyphen"/>tical Enquiry, curious and narrow
+<pb facs="tcp:204176:6"/> Search) to be just and true. <hi>Ari<g ref="char:EOLhyphen"/>stotle</hi> sayes there is no Vacuity in the Nature of things, <hi>Solomon</hi> sayes there is nothing but Emptiness in the things of Nature, not as created, but as sin made them. Vanity is less then nothing, Sin is worse than nothing; that, deserves but little of our Love, and this, none; that, as Ʋnsatisfying, and this, as destruc<g ref="char:EOLhyphen"/>tive. Our highest Wisdom then will be (as <hi>Solomon</hi> directs) to for<g ref="char:EOLhyphen"/>sake the one, and (as <hi>David)</hi> to turn away our eyes from beholding the other, lest that which is but Va<g ref="char:EOLhyphen"/>nity in it self prove Vexation to us.</p>
+            <closer>
+               <signed>F. F.</signed>
+               <dateline>Bath, <date>May 23, 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204176:6"/>
+            <head>Some RULES How to Use the WORLD.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>The things of the World are pro<g ref="char:EOLhyphen"/>hibited our Love.</p>
+               </argument>
+               <p>IT is part of our Corruption since the Fall, that we only Use what we should Enjoy, and Enjoy what we should only
+<pb n="2" facs="tcp:204176:7"/> Use; <hi>Viz.</hi> That we Use God in order unto a fuller enjoyment of the World, which should be only used in order unto a fuller enjoy<g ref="char:EOLhyphen"/>ment of Him, a prohibition there<g ref="char:EOLhyphen"/>fore is necessary, not simply, but comparatively, not absolutely, but conditionally, not as simply con<g ref="char:EOLhyphen"/>sidered, but as limited, not as ex<g ref="char:EOLhyphen"/>cluding all Love to the World and the things of it but that only which is inordinate, <hi>viz.</hi> the over<g ref="char:EOLhyphen"/>valuing them in our Judgments, the unsatiable lusting after them in our Affections, and the over<g ref="char:EOLhyphen"/>greedy seeking them in our Acti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Every Superlative supposes a Po<g ref="char:EOLhyphen"/>sitive, but every Positive does not imply a Superlative.</p>
+               <p>To cast off all Affection to them, was the absurdity of the Stoical Philosophers; to exceed in it, was the irregularity of the Epicureans. The lawful Posses<g ref="char:EOLhyphen"/>sion
+<pb n="3" facs="tcp:204176:7"/> of them is not Condemned, but the evil Affection to them. We may Use them, and Possess them too, but must not be Posses<g ref="char:EOLhyphen"/>sed <note place="margin">1 <hi>John</hi> 2. 16. Non dicit, nolite habere sed nolite diligere; cupidi<g ref="char:EOLhyphen"/>tatem reprehen<g ref="char:EOLhyphen"/>dit, non facul<g ref="char:EOLhyphen"/>tatem.</note> of them; and love them, so we do not over-love them; True<g ref="char:EOLhyphen"/>ly, but not Immoderately. Wholly to Renounce them, so as not to make use of them for Gods Glory, and our Comfort, as well as ne<g ref="char:EOLhyphen"/>cessity, is as unbecoming Christi<g ref="char:EOLhyphen"/>ans, as it would be for a Souldier when bid to forsake all and follow his Leader, to throw away his Arms and go naked after him. We must not then (with <hi>Crates</hi> the <note place="margin">Rebus non me trado sed com<g ref="char:EOLhyphen"/>modo. <hi>Seneca.</hi>
+                  </note>
+                  <hi>Theban)</hi> cast them away, nor (like the Prodigal) profusely spend them, but avoid the danger inci<g ref="char:EOLhyphen"/>dent to them, <hi>viz.</hi>
+               </p>
+               <p>When they are in our Hands, we <note place="margin">
+                     <hi>Psal.</hi> 62. 9, 10. Nolite opponere cor.</note> must keep them out of our Hearts.</p>
+               <p>No Sin finds more Excuses in this World, nor any, greater Ag<g ref="char:EOLhyphen"/>gravations
+<pb n="4" facs="tcp:204176:8"/> in the World to come.</p>
+               <p>With Men, it is a Vertue (good Husbandry, Frugality, a com<g ref="char:EOLhyphen"/>mendable Wariness, a making the most of their own) but in Gods account it is a Vice; and that, of the deepest Dye. The Sin is Ido<g ref="char:EOLhyphen"/>latry, <note place="margin">
+                     <hi>Col.</hi> 3. 5. <hi>Psal.</hi> 10. 3. Non intelligitur secundum speciem sed secundum si<g ref="char:EOLhyphen"/>militudinem, non exhibitione cere<g ref="char:EOLhyphen"/>moniarum sed ob<g ref="char:EOLhyphen"/>latione concupi<g ref="char:EOLhyphen"/>scentiarum.</note> and the Sinner (the Idola<g ref="char:EOLhyphen"/>ter) is abhor'd of the Lord, and since no punishment is appointed for it in this World, he himself will be the Avenger of it in the World to come.</p>
+               <p>The Covetous, who is an Idolater <note place="margin">Eph. 5. 5.</note> (how great so ever his Inheri<g ref="char:EOLhyphen"/>tance is in this World) has no Inheritance in the King<g ref="char:EOLhyphen"/>dom of God.</p>
+               <p>No Sin is more disown'd in the World, then Covetousness. There are many <hi>Achans</hi> that hide this Sin, both from God and Man as much they can; (the Aged say they have left it, the Young that
+<pb n="5" facs="tcp:204176:8"/> they have not liv'd long enough to know it, the Rich that they have no room, and the Poor, that they have no entertainment for it) but yet, no sin is more common, it being as natural to us to love the World, as it is to live in it. Some Diseases affect some Bodies and Ages only; and some Plants thrive but in some soil proper to their Nature; but this sin (as Briers and Thorns in every Hedge, and Weeds in every Ground) is in common to all; for, it has a root in our Nature, we being all na<g ref="char:EOLhyphen"/>turally (as the Woman in the Gospel under a spirit of Infirmity <note place="margin">Luke 13. 11.</note> was penally) bowed down to the Earth, and not able to lift up our selves, or (as the Psalmist <note place="margin">Psal. 17. 11.</note> says) with our eyes bowing down to the Earth, and not able to look up, and the more common, the more dangerous (as Diseases when Epidemical and Mortal) and the greater the danger, the greater must the care be, to eschew, and
+<pb n="6" facs="tcp:204176:9"/> avoid it, and there is good rea<g ref="char:EOLhyphen"/>son so to do, for, love to these things,</p>
+               <list>
+                  <item>(1.) Is inconsistent with love to God.</item>
+                  <item>(2.) Is unsutable to our present state.</item>
+                  <item>(3.) Will be injurious and preju<g ref="char:EOLhyphen"/>dicial to us.</item>
+               </list>
+               <p>(1.) It is inconsistent with love to God.</p>
+               <p>Love to these things simply consider'd, is not inconsistent with love to God, (for, there is a love to them, that he allows, and com<g ref="char:EOLhyphen"/>mands) but that only which is exorbitant and irregular.</p>
+               <p>The <hi>Egyptians</hi> could judge of the plenty or scarcity of a year by the rise of the water of <hi>Nilus</hi> to the markes of a Pillar set near to the brink of it, and by the infallible Rule given to guide our love to these things, it may
+<pb n="7" facs="tcp:204176:9"/> be known when it is inconsistent with love to God, <hi>viz.</hi> then, when risen to a high Estimation of, an inordinate Desire after, an entire Friendship with, and a great Complacency in them.</p>
+               <p>There cannot be two Equals in the same Throne, nor two Objects in chief at once, in the same Soul, they are as inconsistent as heat and cold in intense Degrees, both cannot, one may, but if the World, then not God, for,</p>
+               <p>He will have the Throne, and com<g ref="char:EOLhyphen"/>mand in Chief, or not at all.</p>
+               <p>God and the World are as the Center, and the Circumference, and the nearer the lines of our Affections are drawn to the Cir<g ref="char:EOLhyphen"/>cumference of the World, the fur<g ref="char:EOLhyphen"/>ther they will be from him, the great Center of Love.</p>
+               <pb n="8" facs="tcp:204176:10"/>
+               <p>The Earth is the Center for a Stone, God only is the proper Center of our Hearts.</p>
+               <p>God is the Fountain of all our good, it flows from him as streams from the Ocean, the nearer the streams of our Affections run to the World, the more impure they will be (like streams of Water that contract filth passing by a corrupt Soil) and the further from God, in whom as in a great deep, they should all be swallowed up.</p>
+               <p>From him they came at first, and to him they should return again.</p>
+               <p>The Friendship of the World is Enmity with God, all Love therefore upon equal terms with him, is a comparative hatred to him.</p>
+               <p>The Serpent that went upon the
+<pb n="9" facs="tcp:204176:10"/> Ground was an abomination to the Lord.</p>
+               <p>The Constitution is denomi<g ref="char:EOLhyphen"/>nated from the predominant Ele<g ref="char:EOLhyphen"/>ment, and delight in God, from its prevalency above all delight in the things of the World. It is not true, unless superlative; in him as the chiefest good; in him, not only more than in many things, but more than in all.</p>
+               <p>Love to the World is (in Gods <note place="margin">Jam. 4. 4.</note> esteem) Adultery and Ʋn<g ref="char:EOLhyphen"/>cleanness, for he admits no Rivals.</p>
+               <p>(2.) It is unsutable to our present state. <hi>We are Souldiers.</hi>
+               </p>
+               <p>We are engag'd in a Spiritual Warfare, and as such, must not entangle our selves with the affairs of this Life, lest we either desert the cause, or become faint-hearted <note place="margin">2 Tim. 2. 3, 4.</note> in it, like some Souldiers, who by seeking a Rich Booty, have lost
+<pb n="10" facs="tcp:204176:11"/> the Battel, or by getting one have never after been good for Fight<g ref="char:EOLhyphen"/>ing.</p>
+               <p>The best Souldiers are moderate Spoilers.</p>
+               <p>We are Strangers, and Pilgrims.</p>
+               <p>Heaven is our home, Earth the <note place="margin">Heb. 11. 13. 13. 14. <hi>Commorandi di<g ref="char:EOLhyphen"/>versorium non habitandi. Patria juris, patria loci, extra patrium tenden<g ref="char:EOLhyphen"/>tes ad patriam.</hi>
+                  </note> place of our present abode; there, we shall dwell, here we sojourn; that is our Countrey, this, our passage and thorough-fare to it. We are out of our Countrey, but going to it; not home-dwellers, but Travellers, and as such, we must not (with <hi>Peter</hi> on mount <hi>Tabor)</hi> say it is good to be here, nor take up our rest in it, but only pitch down a Tent, or Ta<g ref="char:EOLhyphen"/>bernacle, (a moveable House of Boughs) for a night or two, we must not be stopt in our way by the Pleasures we meet with, (as <hi>Jonathan</hi> was by Honey) nor stay <note place="margin">1 Sam. 14.</note> at any place short of our home, nor overburden our selves with
+<pb n="11" facs="tcp:204176:11"/> unnecessary Cares, that will re<g ref="char:EOLhyphen"/>tard our motion, and make us lag behind, nor seek superfluities, but necessaries only, which may help us on, and further us in our way.</p>
+               <p>Competency, not Superfinity, is the Pilgrims Weed and Staff, one of each is enough, more will be a hinderance.</p>
+               <p>If we are Really, what we are Nominally, it is unsutable to the Priviledges we enjoy, the Digni<g ref="char:EOLhyphen"/>ties we are call'd to.</p>
+               <p>We are born of God;</p>
+               <p>And therefore, like the Chil<g ref="char:EOLhyphen"/>dren of him our Heavenly Father, we must have the Earth for our <note place="margin">Isaiah 66. 1.</note> Footstool, and Heaven for our Dwelling-place.</p>
+               <p>We are not adopted Sons, unless we have the Spirit of the natu<g ref="char:EOLhyphen"/>ral Son.</p>
+               <pb n="12" facs="tcp:204176:12"/>
+               <p>We are Citizens of the Hea<g ref="char:EOLhyphen"/>venly <note place="margin">Heb. 11. 10.</note>
+                  <hi>Jerusalem,</hi> Burgesses of that City which has Foundations; there, must our business and Trade, our Traffick and Commerce be, <note place="margin">Phil. 3. 20. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> our civil Conversation must be there, much more then our Spi<g ref="char:EOLhyphen"/>ritual; our Treasure is there, our Names are inroll'd and written there, and there must our Hearts <note place="margin">Luk. 10. 20.</note> be also; for,</p>
+               <p>We have Hearts, as well as Faces <note place="margin">Ʋbi nondum su<g ref="char:EOLhyphen"/>mus, ibi sumus.</note> to look upward.</p>
+               <p>There they must be, while we are on Earth, like <hi>Jacobs</hi> Ladder, the top of which reacht to Heaven, whilst the other part stood upon the Earth.</p>
+               <p>And there they must be, more <note place="margin">
+                     <hi>Hilary</hi>'s simili<g ref="char:EOLhyphen"/>tude.</note> than on Earth, like the Wheel, the greatest part of which is above the Earth whilst it moves upon it.</p>
+               <pb n="13" facs="tcp:204176:12"/>
+               <p>A Heavenly Disposition leads to a Heavenly Conversation.</p>
+               <p>We are Chosen out of the <note place="margin">Gal. 1. 4. Psal. 17. 4.</note> World, Redeem'd, and Deliver'd from it.</p>
+               <p>And therefore must not live as the men of the World, who have their Portion in it, and are Slaves to it.</p>
+               <p>The World is the Devils Domi<g ref="char:EOLhyphen"/>nion, and he is the Prince of it.</p>
+               <p>Our Hope is in Heaven. <note place="margin">1 Pet. 1. 3.</note>
+               </p>
+               <p>We are begotten to a lively Hope, that is above, and so must our Affections too.</p>
+               <p>Like the Elements, the higher they are the purer they are.</p>
+               <p>We are Crucify'd with Christ, and therefore must be Crucify'd <note place="margin">Gal. 2. 20.</note> to the World.</p>
+               <pb n="14" facs="tcp:204176:13"/>
+               <p>There was an Eclipse on the World when Christ was Crucify'd in it, and so there is to all, that are Crucify'd to it.</p>
+               <p>We are risen with Christ.</p>
+               <p>He had his Ascension, and we must have ours too. He is risen and gone hence, and we must a<g ref="char:EOLhyphen"/>rise with our Affections and fol<g ref="char:EOLhyphen"/>low <note place="margin">Col. 3. 1. Eph. 2. 6.</note> him where he is, that we may sit together with him in Heavenly Places.</p>
+               <p>As present with our Spirits, whilst absent with our Bodies.</p>
+               <p>What Monsters then in Christi<g ref="char:EOLhyphen"/>anity are they, who dwell with their Heads and Hearts in a heap of Dust, and turn up their Heels in defiance against Heaven, that like <hi>Saul</hi> (though higher by the Head and Shoulders than others in profession yet) hide themselves among the stuff and rubbish of
+<pb n="15" facs="tcp:204176:13"/> the World, that instead of mak<g ref="char:EOLhyphen"/>ing to themselves Friends of their unrighteous Mammon, make, not only that their Friend, but their God; and with the <hi>Israelites</hi> make this Golden God to pass before them; that shine and make a bright appearance in the World, as if they were clad with the Sun, but sit down in the Moon-shine, and have the Moon upon their Heads, and the Sun under their Feet; that soar aloft (like the Lark) in their Profession, but make their Nest here below (here, is their place of Rest) and take their flight as the Eagle to Hea<g ref="char:EOLhyphen"/>ven, but keep their Eye on the Earth as their prey, and after all their hovering fall down upon this Carcass, and thereby commit as great a Solecism, as he that pointed to the Earth and cried but, O Heaven!</p>
+               <p>Eagles plumes blend not with other Feathers.</p>
+               <pb n="16" facs="tcp:204176:14"/>
+               <p>(3.) It will be injurious and pre<g ref="char:EOLhyphen"/>judicial to us.</p>
+               <list>
+                  <item>1. As oppressing us with distract<g ref="char:EOLhyphen"/>ing Cares.</item>
+                  <item>2. As exposing us to destructive Lusts.</item>
+                  <item>3. As indisposing us to the work of Religion.</item>
+               </list>
+               <p>1. As oppressing us with distract<g ref="char:EOLhyphen"/>ing Cares.</p>
+               <p>Distracting Cares are the Ser<g ref="char:EOLhyphen"/>pents <note place="margin">1 Tim. 6. 10. Eccl. 5. 12.</note> in this Paradise and Snakes in this Sunshine, that sting and tor<g ref="char:EOLhyphen"/>ment, the Vultures that continu<g ref="char:EOLhyphen"/>ally gnaw; the Thorns that with many sorrows pierce through both Head and Heart; and the <hi>mali<g ref="char:EOLhyphen"/>genii,</hi> that night and day haunt all that maintain a Friendship and Familiarity with the World.</p>
+               <p>
+                  <hi>Lot</hi> liv'd in <hi>Sodom,</hi> but <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> dwelt in a Tent, and he had the best rest.</p>
+               <pb n="17" facs="tcp:204176:14"/>
+               <p>2. As exposing us to destructive Lusts.</p>
+               <p>The World is an evil World, (through the common abuse of it) and not to be lov'd; Treacherous, and not to be trusted. It has Snares in its Joys, as well as in its Sor<g ref="char:EOLhyphen"/>rows; and real Misery under the seeming Glory of it, it comes as <hi>Jael</hi> to <hi>Sisera,</hi> and <hi>Ehud</hi> to <hi>Eglon,</hi> with a Nail and a Hammer, as well as Milk; with a Dagger, as well as a Present. It invites to a Feast, (as <hi>Absalom</hi> did <hi>Amnon)</hi> to destroy; and Panther like, first allures with its sweet smell, and then devours.</p>
+               <p>The <hi>Caspian</hi> Sea afforded the sweetest Waters, and bred the greatest Serpents; the Pleasures of <hi>Egypt</hi> occasion'd Sins more bitter than those Pleasures were sweet, and the Streams of Pleasure though shallow, have drowned many that have lain down in them.</p>
+               <pb n="18" facs="tcp:204176:15"/>
+               <p>Ambition occasion'd <hi>Corah</hi>'s Re<g ref="char:EOLhyphen"/>bellion, <hi>Absolom</hi>'s unnatural Trea<g ref="char:EOLhyphen"/>son, and <hi>Diotrephes</hi>'s Pride in con<g ref="char:EOLhyphen"/>temning the Apostles.</p>
+               <p>Riches led <hi>Achan</hi> to Thievery, <hi>Saul</hi> to Disobedience, <hi>Ahab</hi> to Murder, <hi>Gehazi, Ananias</hi> and <hi>Sapphira</hi> to Lying, <hi>Judas</hi> to Trea<g ref="char:EOLhyphen"/>son, (he was not so Covetous as <hi>Tertullian</hi> thinks, untill he carried the Bag) and <hi>Demas</hi> to Apostacy, and will all to Destruction, that <note place="margin">1 Tim. 6. 9, 10.</note> indulge them.</p>
+               <p>The <hi>Romans</hi> greatest Evils (as <hi>Austin</hi> observes) sprang from their Prosperity, and it is the Prosperity of Fools (as <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>
+                  <note place="margin">Prov. 1. 32.</note> says) that destroys them.</p>
+               <p>The belief of this, may be a good Argument to moderate our Desires after the things of the World, and to be content in the want of them.</p>
+               <pb n="19" facs="tcp:204176:15"/>
+               <p>
+                  <hi>Sisera</hi> had better have been without his Milk in <hi>Jael</hi>'s Tent, than to have his Brains pay the shot of it. And <hi>Tarpeia</hi> the Vestal Nun without the Enemies Brace<g ref="char:EOLhyphen"/>lets (which she bargain'd for up<g ref="char:EOLhyphen"/>on her betraying the Capitol) then to have been prest to Death with the weight of their Buck<g ref="char:EOLhyphen"/>lers, which they threw into her Lap with those Bracelets, as an over<g ref="char:EOLhyphen"/>plus of their kindness. And <hi>Mu<g ref="char:EOLhyphen"/>leasses</hi> without the unhappy Excess of Costly Perfumes, then to have been betray'd by their Scent (when he hid through Fear) into his Enemies hands, to the loss both of his Eyes and Kingdom. And better it is to want, than to be destroy'd by Plenty; to have Wa<g ref="char:EOLhyphen"/>ter in a wooden Dish, than Wine mixt with Poison in a Golden Cup; to Toil all day, and catch nothing, than a Snare to catch our selves; and to be without the Worlds Embraces, than Perish by them.</p>
+               <pb n="20" facs="tcp:204176:16"/>
+               <p>Little do they think who hunt after the World, how many this Beast of prey has turn'd upon and devour'd.</p>
+               <p>3. As indisposing us to the work of Religion.</p>
+               <p>Love to <hi>Sodom</hi> made <hi>Lots</hi> Wife look back when in her way to <hi>Zoar;</hi> the Money in <hi>Jacob</hi>'s Sons sacks, made their Hearts to sink; (their Hearts had been more light, <note place="margin">Gen. 42. 27, 28.</note> if their Sacks had not been so Hea<g ref="char:EOLhyphen"/>vy). Love to the Bag, sent <hi>Judas</hi>
+                  <note place="margin">Mat. 26. 13, 14▪</note> out of the Temple, into the Mar<g ref="char:EOLhyphen"/>ket, he left Christ's Sermon, to sell him for Money; and Love to the World, will either indispose us to the things of Heaven, or distract us in them. The Way is narrow where the Race lies that is set us to run, and the World (the great dust-heap) will obstruct our Entrance into it, the weight of Earth upon us (the thick clay <note place="margin">Hab. 2. 6. <hi>nitidius lutum.</hi>
+                  </note>
+                  <pb n="21" facs="tcp:204176:16"/> we are laden with) will retard, or hinder our Motion in it. God, and Mammon, (two Masters that give <note place="margin">Mat. 6. 21, 22, 23, 24.</note> contrary Commands) cannot be serv'd together; Obedience to one, will be Disobedience to the other. Heaven and Earth can<g ref="char:EOLhyphen"/>not be beheld by our Eye at one and the same time. The Earth is at a great distance from Heaven, but Earthly Minds are at a greater; the greatest difficulty will be, to bring into one, the things of the greatest distance: We must there<g ref="char:EOLhyphen"/>fore quit the Service of the World, if we would be at leisure <hi>(vacare Deo)</hi> to attend the Service of Hea<g ref="char:EOLhyphen"/>ven; and be, not as <hi>Martha,</hi> cum<g ref="char:EOLhyphen"/>bered <note place="margin">Luk. 10. 40, 41, 42.</note> about many things, but as <hi>Mary,</hi> intent upon the one thing needful. Our Eye must be single to <note place="margin">Mat. 6. 22, 23.</note> Heaven (direct to that Point) if we would have a clear and full sight of it. We must (with <hi>Za<g ref="char:EOLhyphen"/>cheus)</hi> get above the Earth, if we would behold Christ, the Sun of Righteousness; restrain the goings
+<pb n="22" facs="tcp:204176:17"/> out of our Hearts after Covetous<g ref="char:EOLhyphen"/>ness, if we would not be (as <hi>E<g ref="char:EOLhyphen"/>phraim)</hi> without a Heart in the midst of Duty, stop the current of our Affections, that naturally run in the way of the Wilderness, that they may run swift and strong, into the Land of Promise; call in our heat, drawn out to the World, and cool in our Affecti<g ref="char:EOLhyphen"/>ons to it, if we would be Fer<g ref="char:EOLhyphen"/>vent in Spirit, serving the Lord, be dis-entangled from the things below, taken out of these Briars, and Thorns (as <hi>Abrahams</hi> Ram <note place="margin">Gen. 22. 13.</note> was from the thicket in which it was caught) if we would offer up a Living, Holy, and Acceptable Sacrifice to God, for nothing is more contrary to Godliness, than Worldliness.</p>
+               <p>When the Moon is at the Full, it is in greatest Opposition to the Sun.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="23" facs="tcp:204176:17"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>The things of the World are un<g ref="char:EOLhyphen"/>worthy of our Love, in that <note place="margin">Vanitas est debi<g ref="char:EOLhyphen"/>tae entitatis vacuitas.</note> they are vain and empty, yea Vanity in the Abstract; and this upon a double Account.</p>
+               </argument>
+               <list>
+                  <item>
+                     <hi>First,</hi> In respect of Efficacy, as Ʋnsatisfying.</item>
+                  <item>
+                     <hi>Secondly,</hi> In respect of Duration, as Ʋncertain.</item>
+               </list>
+               <p>
+                  <hi>First,</hi> In respect of Efficacy, as Ʋnsatisfying.</p>
+               <p>THE things of Heaven are greater than what at pre<g ref="char:EOLhyphen"/>sent they appear to be <hi>(it does not appear what we shall
+<pb n="24" facs="tcp:204176:18"/> be;)</hi> the Joy more full, the Plea<g ref="char:EOLhyphen"/>sure <note place="margin">1 Joh. 3. 2.</note> more sweet and ravishing, the Crown more weighty, and the Glory more transcendent, then we are able to conceive or imagine; for Admiration (the overplus of expectation) will be at the end of our Faith, when we behold, and enjoy them, but Earthly things are less when enjoy'd, then they ap<g ref="char:EOLhyphen"/>pear'd to be when desired. They are indeed call'd Riches, Goods, Profits, Substance, but they go by false Names, and appear great to our view afar off, but little or nothing when we come to en<g ref="char:EOLhyphen"/>joy them; (like that Tree that at a distance seem'd thick with Boughs for Shelter but had none.) We are disquieted at the want of them, and after a while as much unsa<g ref="char:EOLhyphen"/>tisfy'd with them; (like the <hi>Israel<g ref="char:EOLhyphen"/>ites,</hi> at first sick for Quails and Manna, and then as sick with them.) They sometimes occasion Loath<g ref="char:EOLhyphen"/>ing, but never give Satisfaction.</p>
+               <pb n="25" facs="tcp:204176:18"/>
+               <p>Many Quails made the <hi>Israelites</hi> sick, and Manna when ga<g ref="char:EOLhyphen"/>thered above its proportion, stunk, and became corrupt.</p>
+               <p>
+                  <hi>Solomon</hi> the most experienced for enquiry, when he had ran<g ref="char:EOLhyphen"/>sackt the whole Creation, tho<g ref="char:EOLhyphen"/>roughly Examin'd, and strictly Enquir'd into the Nature of all things here below, he brings in his Verdict, that all was Vanity: And we have more Wisdom than <hi>Solomon,</hi> or rather less, if we find any thing better in them; for, the things (as well as the men) of this World are Vanity, and a Lie; they promise much, but perform little; (give a blear-ey'd <hi>Leah</hi> for <hi>Rachel)</hi> they look fair to the Eye; Entice and Allure, but Delude. We come to them (as to a Lotte<g ref="char:EOLhyphen"/>ry) big with Expectation, but re<g ref="char:EOLhyphen"/>turn with Disappointment; with a Blank instead of a Prize; they enflame Desire, but cannot satisfy;
+<pb n="26" facs="tcp:204176:19"/> for, they are broken Cisterns. Cisterns may be drawn dry, though the Ocean cannot; they hold but little, and broken Cisterns no<g ref="char:EOLhyphen"/>thing; for they run out, and empty themselves into the Dust, and send us back (as the <hi>Jews</hi> were from their dry Pits) with Shame and <note place="margin">Jer. 14. 3.</note> Confusion.</p>
+               <p>Vanity begets Disappointment, and Disappointment breeds Vexation.</p>
+               <p>They are indeed of necessary Use to our Natural Life, as staves for lame Nature to walk with, (but cannot either prevent, abate, or remove, the Evils that attend it) not so much to Life Moral or Spiritual: Can avail us but little while we live, (only as baits in the way) less, when we come to die, (a brazen Serpent will then be of more use to us than a Golden Calf;) but nothing at all when we are dead, and gone hence, for
+<pb n="27" facs="tcp:204176:19"/> our Glory shall not descend after <note place="margin">Psal. 49. 17.</note> us, nor will our Riches (that make themselves wings) take flight with us into another World; if they did, they would be as reprobate, not current Coin, and avail us no<g ref="char:EOLhyphen"/>thing; <note place="margin">Prov. 11. 4.</note> for, the things of time, will not comfort in Eternity.</p>
+               <p>All Manna but what was in the <note place="margin">Numb. 17. 8.</note> Ark putrify'd, and no Rod but <hi>Aarons,</hi> budded and bloom'd.</p>
+               <p>How great then is their Folly, that spend their time and strength in seeking these lying Vanities, that are (as Children) pleas'd with these Toys, and (with the Ser<g ref="char:EOLhyphen"/>pent) make Dust their Food, that toil (with the <hi>Israelites)</hi> to gather straw, labour for Wind, and feed (with the Prodigal) upon Husks.</p>
+               <p>The <hi>damnati ad Metalla</hi> were of all most miserable.</p>
+               <pb n="28" facs="tcp:204176:20"/>
+               <p>Secondly, <hi>In respect of Duration, as Ʋncertain.</hi>
+               </p>
+               <p>Sin has cast instability <hi>(Reu<g ref="char:EOLhyphen"/>bens</hi> lot) on the whole Creation: the World, and the things of the World are fading, and so are we.</p>
+               <p>1. The World is Fading.</p>
+               <p>It had (as <hi>Austin</hi> Notes) its Infancy, Childhood, Youth, Mid<g ref="char:EOLhyphen"/>dle Age, Old Age, and its Dotage. Its Infancy from the time of <hi>Adam</hi> to <hi>Noah,</hi> its Childhood from <hi>Noah</hi> to <hi>Abraham,</hi> its Youth from <hi>A<g ref="char:EOLhyphen"/>braham</hi> to <hi>David,</hi> its Middle Age from <hi>David</hi> to the <hi>Babylonish</hi> Cap<g ref="char:EOLhyphen"/>tivity, its Old Age from the Cap<g ref="char:EOLhyphen"/>tivity to Christ, and now its Do<g ref="char:EOLhyphen"/>tage from Christ to the End of the <note place="margin">1 Joh. 2. 18. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 1 Pet. 4. 7. 1 Cor. 7. 9.</note> World. The time was short when St. <hi>Paul</hi> liv'd, that time which God spread over all things like a Sail, and had been some thousand
+<pb n="29" facs="tcp:204176:20"/> years roling up, was then roll'd <note place="margin">As a Sail of a Ship when furl<g ref="char:EOLhyphen"/>ing up, and roll'd together to the last corner, which also the Marriner is in hand with.</note> together to the last Corner, and almost at an end; and if short then, it is now shorter, by above Sixteen Hundred years, if the end of all things was at hand in St. <hi>Peters</hi> days, and the last time was come in St. <hi>Johns, (viz.</hi> the last Age of the World) if his Age was the last Hour, ours (upon whom the Ends of the World are come) <note place="margin">1 Cor. 10, 11.</note> is the last Minute of that Hour; if the Judge then stood at the door, he is now entring in, for the World is grown old, and stoops through Age, it is in its Declensi<g ref="char:EOLhyphen"/>on, and its years are almost ex<g ref="char:EOLhyphen"/>pir'd.</p>
+               <p>The Sun has almost run its Race, and then, when set, shall rise no more, the Heavens are fading, they and the Tabernacle in them set for the Sun are now dissolving, the Earth also, and the Works therein are Perishing, and shall shortly be consum'd by Fire, and then, not a Rag of our rich and costly Gar<g ref="char:EOLhyphen"/>ments
+<pb n="30" facs="tcp:204176:21"/> shall be left to cover us, not <note place="margin">Psal. 19. 4, 5.</note> a Foot of our Lands to walk on, not a farthing of our Treasures to Relieve us, nor a corner of our stately Houses to hide our Heads in, for they shall all be burnt up, <note place="margin">2 Pet. 3. 10.</note> and by the light of that Fire, we shall then (if now we will not) read their Mortality.</p>
+               <p>Gods Name is, <hi>I am;</hi> the Worlds, <hi>I am not.</hi>
+               </p>
+               <p>2. The Things of the World are Fading.</p>
+               <p>The things of Heaven are set out by the Temple, which was fixt and permanent; the things of the World by the Tabernacle, which was Transient. They (as the Sun) admit of no changes, these (as the Moon) are liable to them. They, like Pearls, keep their Lustre; these, like the gaw<g ref="char:EOLhyphen"/>dy works of Art, are Fading. They are perishing, and the Glo<g ref="char:EOLhyphen"/>ry,
+<pb n="31" facs="tcp:204176:21"/> Beauty, and Excellency of <note place="margin">2 Cor. 5. 12.</note> them is perishing-too, they are not what they seem to be (a Glory in <note place="margin">1 Cor. 1. 31.</note> appearance only) nor long con<g ref="char:EOLhyphen"/>tinue in that appearance; they salute us as strangers, and pass a<g ref="char:EOLhyphen"/>way, come and go, are given and taken, but their abode or contin<g ref="char:EOLhyphen"/>uance, is either short (like Manna for a day) or none at all. They are failing Treasures, that please while they last, but last not long, and things that Perish (or are to <note place="margin">Luk. 12. 33. Col. 2. 22.</note> Corruption) in their use, for, we lose them while we seem to have them, and have neither gain nor pleasure from them, but as we use and spend them.</p>
+               <p>Pleasures are uncertain: <note place="margin">Heb. 11. 25.</note>
+               </p>
+               <p>Their Streams are but shallow and soon dried up, of a short con<g ref="char:EOLhyphen"/>tinuance, for they are but for a season.</p>
+               <p>Time may be long, but a season is
+<pb n="32" facs="tcp:204176:22"/> but a short, or little Article of it.</p>
+               <p>Riches are uncertain <note place="margin">1 Tim. 6. 17. Prov. 23. 5.</note>
+               </p>
+               <p>The Wings of other Creatures are made for them, but Riches make themselves Wings, not to fly to us, but from us; the Wings, not of a tame Bird that may soon be taken, but of one most swift of Wing, and strong in Flight: not of a Hawk, that may be known by her Bells where she is, fetcht down by a Lure, and brought to the Fist again, but of an Eagle that of all the Fowls of the Air flies highest and swiftest, mounts aloft, and flies away towards Heaven with so much haste, that nothing can recall her.</p>
+               <p>Riches are uncertain to get and to keep, to procure and enjoy.</p>
+               <pb n="33" facs="tcp:204176:22"/>
+               <p>Honours are uncertain:</p>
+               <p>Honour is Happiness in a Fable, <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Cui veri aut se<g ref="char:EOLhyphen"/>lidi nihil subest <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> not like that Cloud <hi>Aristotle</hi> calls a True, and Real Substance, but as the Rainbow, an Appearance on<g ref="char:EOLhyphen"/>ly, and of short continuance, like a Tennis Ball, ever in motion, and liable to hazards, always uncer<g ref="char:EOLhyphen"/>tain, and sometimes dangerous: For its Throne is ascended (as some get upon hot Mettled Horses) with Difficulty, set upon with Fear, and sometimes left with Mischief: As is evident in <hi>Haman,</hi> who was one day advanc'd at Court, and the next day on the Gallows.</p>
+               <p>There are many of those, who once were Sons of Honour, that might (if they would) come in and subscribe to this Truth, having long since out-liv'd their Honours, Celebrated their Fu<g ref="char:EOLhyphen"/>nerals, and seen them laid in the Dust.</p>
+               <pb n="34" facs="tcp:204176:23"/>
+               <p>(2.) They are uncertain as to our continuance.</p>
+               <p>We are junior to Time, and measur'd by it; Natural, and have our motion, beginning and end, our first and last; Finite, and have our bounds and periods, <note place="margin">Nil ultra.</note> made of Principles so contrary, at least, of Principles so corruptible, that we shall certainly have our end, and fall into pieces at last, either a Disease, or Old Age, (the sickness of Nature), will sooner or later put an end to our Life; and either the hand of Violence from without will pluck up, or a Worm from within, will devour our most flourishing Gourd. They are all Fading, (Death may be seen in the face of them) and so are we, and both like Grass, that if not cut down with the Sithe, will wither of it self, and come to nothing. They are withering whilst flourishing, and we are
+<pb n="35" facs="tcp:204176:23"/> dying whilst living; going on to Death whilst we look forward to Life, and shall both have our end, but which of us first, is uncertain. Sometimes they are more Mortal than we, for they go away and leave us behind <hi>(Job</hi>'s Riches were taken away, and he left to be poor to a Proverb) and sometimes we are more Mortal than they (the Rich Fools Goods remain'd, and he was taken from them) we leave them or they will forsake us, be lost while we live, or left when we die, like the Worm that leaves all the Dirt she roll'd in behind her upon the hole of the Earth she creeps in at.</p>
+               <p>To us then that are uncertain of our continuance here, they can be no other than uncertain things.</p>
+               <p>The Rich Man in the Gospel sung a Song of four Parts to his Soul (take thine Ease, Eat, Drink
+<pb n="36" facs="tcp:204176:24"/> and be Merry) but it was the Laughter of a Fool, who thought he had a Lease for time, who was only a Tenant at Will, he was a Fool to be so merry, when he had no security to enjoy what he had for a Night; and so are all that rejoyce in these Transitory things. Their Mirth is Madness, and as <note place="margin">Eccl. 2. 2, 6, 7.</note> much to be wonder'd at, as that of the <hi>Romans</hi> Ambition was by <hi>Tertullian,</hi> in venturing such hard<g ref="char:EOLhyphen"/>ships <note place="margin">Ʋnius anni vola<g ref="char:EOLhyphen"/>ticum gaudium.</note> in the Field, to be Consul at last, which he calls the fading Joy of a Year.</p>
+               <p>Since then we are at such uncer<g ref="char:EOLhyphen"/>tainties, either for their continu<g ref="char:EOLhyphen"/>ance, or our own, let us be wean<g ref="char:EOLhyphen"/>ed in our Affections from them, die to the World while we live in it; take Wing, and fly from our Riches, before they make them<g ref="char:EOLhyphen"/>selves Wings and fly from us; take a taste at the streams of Plea<g ref="char:EOLhyphen"/>sure (as the Dogs at <hi>Nilus)</hi> for our Refreshment only, and either
+<pb n="37" facs="tcp:204176:24"/> not seek the Honours of the World, (shadows that flee when pursu'd) or sit loose to them while we have them, that we may the more wil<g ref="char:EOLhyphen"/>lingly part with them while we live, or leave them when we die.</p>
+               <p>The greater our Joy is in the things of the World, the grea<g ref="char:EOLhyphen"/>ter will our sorrow be when they leave us, or we must them.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="38" facs="tcp:204176:25"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>The things of the World are no part of our Happiness.</p>
+               </argument>
+               <p>WHat Happiness is, is a Question that all seem to make; but of all, most difficult (as <hi>Cicero</hi> sayes) to be Resolv'd: Many that pretend to know what it is, are much mis<g ref="char:EOLhyphen"/>taken; few know it, and fewer, the right way to it.</p>
+               <p>Some think there is no Happi<g ref="char:EOLhyphen"/>ness but in Sin, and thereupon become wise to do Evil, but they are Fools that do so, <hi>(David</hi>'s Wicked Men are <hi>Solomon</hi>'s Fools) for they seek Life in Death, (as
+<pb n="39" facs="tcp:204176:25"/> the <hi>Jews</hi> did Temporal Salvation <note place="margin">Joh. 11. 48.</note> in Crucifying Christ) Heaven in Hell, and may as soon find it there, as Happiness in a way of Sin.</p>
+               <p>To desire nothing but what is Good, and to obtain that De<g ref="char:EOLhyphen"/>sire, is (in <hi>Austins</hi> Opinion) the greatest Happiness.</p>
+               <p>Some seek Happiness in them<g ref="char:EOLhyphen"/>selves, but they will never find it there; for,</p>
+               <p>We are made by another, and since we are not our own Efficient, we cannot be our own End, and Happiness; for,</p>
+               <p>It is a Rule in Nature, that the first Cause must be the last End.</p>
+               <p>We are Changeable, and can<g ref="char:EOLhyphen"/>not be satisfy'd in our selves; we are Dependent, and cannot make
+<pb n="40" facs="tcp:204176:26"/> up a life of Sense to our selves without other things; nor with all of them, a life of Happiness.</p>
+               <p>
+                  <hi>Adam</hi> aim'd at an Absolute In<g ref="char:EOLhyphen"/>dependance, but he could never reach it; much less then can we.</p>
+               <p>Most think Happiness is in the things of the World, but it is not to be found in the greatest Con<g ref="char:EOLhyphen"/>fluence of them; for</p>
+               <p>They are things beneath us;</p>
+               <p>Happiness cannot be in things be<g ref="char:EOLhyphen"/>neath us, for in loving them we dethrone God, and debase our Selves.</p>
+               <p>They cannot make us good;</p>
+               <p>That cannot be our Good, which does not make us so.</p>
+               <pb n="41" facs="tcp:204176:26"/>
+               <p>They make some the worse;</p>
+               <p>That cannot be our Happiness which makes us more Sinful.</p>
+               <p>They may be Abused;</p>
+               <p>That cannot be our Happiness which may be desired too much, and perverted to a wrong End.</p>
+               <p>They are not to be delighted in <note place="margin">Non est bonum quod laborat magnitudine suâ.</note> for themselves;</p>
+               <p>That cannot be our Happiness that we are forbid to delight in.</p>
+               <p>The want of them is sometimes needful;</p>
+               <p>That cannot be our Happiness that we may do better without.</p>
+               <p>They are sometimes to be part<g ref="char:EOLhyphen"/>ed with;</p>
+               <pb n="42" facs="tcp:204176:27"/>
+               <p>That cannot be our Happiness that we are to forsake for Heaven.</p>
+               <p>They are but Goods of Neces<g ref="char:EOLhyphen"/>sity <note place="margin">Ʋna nostra foeli<g ref="char:EOLhyphen"/>citas nullâ egere foelicitate. <hi>Se<g ref="char:EOLhyphen"/>neca.</hi>
+                  </note> (and are Debtors to our wants for the value put upon them) our Necessities put their worth into them, for, if we did not need them, we would not prize them.</p>
+               <p>Our Happiness would be rather not to want them, then to have them, it is much better not to need Food and Physick, than to use them.</p>
+               <p>They have a mixture of Evil in them; the Rose has its Prickle; the Bee has its Sting; the purest Gold, Dross; the Moon when brightest, a dark Spot; from the Fire that revives with its Heat, some Smoke arises that offends our Eyes; and in our greatest Joy, there is some appearance of Sor<g ref="char:EOLhyphen"/>row (as when we laugh most
+<pb n="43" facs="tcp:204176:27"/> heartily Tears stand in our Eyes) and in our greatest Good there is some Evil; something better, and something worse.</p>
+               <p>That cannot be our Happiness that has an alloy of Misery in it.</p>
+               <p>They are no way sutable to the Nature of the Soul.</p>
+               <p>Sensual Pleasures in the Opini<g ref="char:EOLhyphen"/>on of the <hi>Epicureans,</hi> were the Happiness of the Soul; they that were delighted were Happy, and they Miserable that were not: But <hi>Tully</hi> sayes, it was the voice, not of Men but of Beasts, to say so, in that they were the chief Goods for Beasts, and not for Men, and in the Enjoyment of which they might be more happy than Men.</p>
+               <p>Meat and Drink are a sutable Good to the Hungry and Thirsty, for they are Objects to which those
+<pb n="44" facs="tcp:204176:28"/> Appetites are determin'd; but Objects of Sense are no more suta<g ref="char:EOLhyphen"/>ble to the nature of the Soul, then sounds are to the Eye, or Colours to the Ear, the Soul is not a <hi>Ca<g ref="char:EOLhyphen"/>meleon</hi> that Feeds upon Air, nor can it be any more happy in the enjoyment of Sensual things, than a Sensitive Creature can be happy by an Intellectual, or an Intel<g ref="char:EOLhyphen"/>lectual by a Sensitive.</p>
+               <p>A full Barn, or an empty one; Goods, or no Goods; for many years, or not for a moment, are all one <hi>(viz.</hi> as much as nothing) to a Soul. The Rich Man in the Gospel indeed thought otherwise, who said, Soul, Eat, Drink and be Merry; but he was a Fool for it, and so are all others that think so. For at the best they make up but a present Good to the Body, and that but imperfectly neither, (the Eye is not satisfy'd with seeing nor the Ear filled with hearing) but none at all to the Soul, in that <note place="margin">Eccl. 1. 8.</note>
+                  <pb n="45" facs="tcp:204176:28"/> they are Sensual and Material, this, Spiritual and Immaterial; they, Transient, this, Immortal; they, continue but a while, are unsutable while they do continue, to the nature of the Soul, and un<g ref="char:EOLhyphen"/>able to satisfie the indigencies of it; and therefore, no part of the Happiness of it.</p>
+               <p>The Enjoyment of God himself in this World only, would be but an imperfect Happiness.</p>
+               <p>It will be our Happiness in Hea<g ref="char:EOLhyphen"/>ven to live without them, else we shall be Losers, and consequently Miserable in going thither.</p>
+               <p>That cannot be our Happiness that we can live without, and shall.</p>
+               <p>Nothing less than the Absence of all Evil, the Presence of all Good, and an Eternity to Enjoy it, makes up a compleat, and per<g ref="char:EOLhyphen"/>fect
+<pb n="46" facs="tcp:204176:29"/> Happiness. A Good, propor<g ref="char:EOLhyphen"/>tionable and sutable, adequate, <note place="margin">Adaequatum, si<g ref="char:EOLhyphen"/>bi constans, perpe<g ref="char:EOLhyphen"/>tuum.</note> full, proper, and immutable, which is no where to be found but in God, who is an Independent and perfect Being.</p>
+               <p>First, <hi>An Independent Being.</hi>
+               </p>
+               <p>Not like ours, which was at first derived from him, is enjoy'd by Succession, and continually needs something to preserve it (as the Earth needs the Influence of the Sun, and Rivers a filling from the Ocean): But underived, for God has being in himself, he had so from all Eternity, and all at once without Succession, and therefore can do that by himself and much more, than what he does by Crea<g ref="char:EOLhyphen"/>tures. He was once without them, but they were never without him, and there is much in him, that is not to be found in them, but there is no good in them, but what is derived from him, and to be found more eminently in him.</p>
+               <pb n="47" facs="tcp:204176:29"/>
+               <p>Cisterns are nothing without a Fountain to fill them, nor Ri<g ref="char:EOLhyphen"/>vers without the Ocean to main<g ref="char:EOLhyphen"/>tain them.</p>
+               <p>Secondly, <hi>A Perfect Being.</hi>
+               </p>
+               <p>Not like ours, which is a Per<g ref="char:EOLhyphen"/>fection with Imperfection; for it is but in its own Kind, and in such a Degree only, and Mutable too; and compared with Gods, but as a point to a Circle, or the shadow to the Sun; yea less than nothing, for that is full and absolute <hi>(viz.</hi> as to all kinds, degrees, and ex<g ref="char:EOLhyphen"/>tents of Being) Immutable, and under no Defect, nor subject to any Decay; for he is a perfect Being; Light without Darkness, and Goodness, beyond any in us, or conceivable by us.</p>
+               <p>The Heathen attributed some Ex<g ref="char:EOLhyphen"/>cellencies to their Gods, but in this true, and only God, are all.</p>
+               <pb n="48" facs="tcp:204176:30"/>
+               <p>Could the Sun and Stars divest themselves of their Glory and give it to us, should all the Crow<g ref="char:EOLhyphen"/>ned Heads in the World lay their Crowns at our Feet, or could we by our own care and contrivance get the Possession of a whole World to our selves (which none ever yet did) and procure a Lease, longer then that of <hi>Methujelahs</hi> years to enjoy it, it would be as no<g ref="char:EOLhyphen"/>thing without God; but as <hi>Hagars</hi> Bottle without water, or a Paradise without a Tree of Life. It is the Sun, and not the Stars that makes perfect day: God, and not the World, (no not in all its Royal<g ref="char:EOLhyphen"/>ties) that can make us happy; for we are every way Miserable without him, and never happy, untill we arise, and seek, so as to find it in him.</p>
+               <p>There is no Fishing to that in the Sea.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="49" facs="tcp:204176:30"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>The things of the World are no Evidence of Gods Love.</p>
+               </argument>
+               <p>THere is a two-fold Love in God; one relates to him<g ref="char:EOLhyphen"/>self, and is Infinite and Absolute; the other, to his Crea<g ref="char:EOLhyphen"/>tures, and is either General or Special.</p>
+               <p>The General, is to all his Crea<g ref="char:EOLhyphen"/>tures; to Man, as the Head of them, and to all other Inferior to him; in him there is Gods Image, in them there are his Foot-steps, and the meanest of them unfold something of him.</p>
+               <pb n="50" facs="tcp:204176:31"/>
+               <p>The Special, is to his Chosen, <note place="margin">
+                     <hi>Dantur bonis ne putentur mala, malis, ne puten<g ref="char:EOLhyphen"/>tur bona; bonis, &amp; malis, ne pu<g ref="char:EOLhyphen"/>tentur summa bona.</hi> Aug. Psal. 16. 3. Joh. 17. 6.</note> Redeemed People; the Excellent in whom is all his Delight, the same for kind, with that to Christ, in whom they are belov'd. This is the Love of a Father, the other of a Creator. In that, he gives himself; in this, the things of the World: Sometimes to the Good, that they may not be thought to be Evil things; and sometimes to the Bad, that they may not be thought the only good things; but to neither as Special, but as Com<g ref="char:EOLhyphen"/>mon Blessings.</p>
+               <p>A singular Effect can never come from a common Cause.</p>
+               <p>The bare performance of Com<g ref="char:EOLhyphen"/>mon Duties, is no sign of special Grace; (for, it may be more from Nature than Grace, more from Fear than Love, <hi>viz.</hi> fear of Pu<g ref="char:EOLhyphen"/>nishment, than love to the Com<g ref="char:EOLhyphen"/>mand; from Natural Conscience,
+<pb n="51" facs="tcp:204176:31"/> more than Renew'd; and more to Pacifie than Purifie it:) nor the possession of Common Blessings any mark of special Favour; for they are but the common Wind<g ref="char:EOLhyphen"/>falls of Providence, meer Donati<g ref="char:EOLhyphen"/>ons, not of distinguishing Love, but of common Bounty. The Childrens Leavings, often thrown to Dogs; things indifferently dis<g ref="char:EOLhyphen"/>penced to Good and Bad, and may be given or withheld in Love; deny'd or given in Anger. Fruits of Gods Goodness, but no signs of ours; Arguments to promote our Love to him, but none to prove his to us; for the Son of the Con<g ref="char:EOLhyphen"/>cubine may have them as well as <note place="margin">Gen. 25. 6.</note> the Son of the true Wife.</p>
+               <p>There is one Event to the Wicked <note place="margin">Eccl. 9. 2.</note> and to the Righteous, the same outward Misery and Blessing may befall them both.</p>
+               <p>
+                  <hi>Haman</hi> thought <hi>Esthers</hi> inviting him to a Banquet, and admitting
+<pb n="52" facs="tcp:204176:32"/> none but himself to come in with <note place="margin">Esther 5. 4, 8, 12.</note> the King to it, was a mark of spe<g ref="char:EOLhyphen"/>cial Favour; the Elder Brother made an estimate of his Fathers Love to the younger, by a Fatted Calf, Musick and Dancing, and most, because they have the bet<g ref="char:EOLhyphen"/>ter of others as to this World, think that they are really better (as the <hi>Jews</hi> because Allied by Birth to <hi>Abraham,</hi> and partakers of special Providences, thought themselves the only People belov'd of God) but they are all mistaken that think so, for though they are sent to make us better, they do not show that we are so: If they make us so, they come in Love; but are given in Anger, if they do not, not tokens of Love, but marks of Displeasure, Prefaces to our Destruction, and a means to make way for it, for,</p>
+               <p>When the wicked spring, and the <note place="margin">Psal. 9. 27.</note> workers of Iniquity flourish, it is (like the springing of grass)
+<pb n="53" facs="tcp:204176:32"/> that they may be cut down, and destroy'd for ever.</p>
+               <p>King <hi>Philip</hi>'s shadow was no greater (as he was told by the Son of <hi>Aegiselaus)</hi> when he glori<g ref="char:EOLhyphen"/>ed in his Victories, then it was be<g ref="char:EOLhyphen"/>fore he obtain'd them, nor are any really better that have these things, than those that have not, no more than they that stand upon Stilts are really Taller, than those that are upon the Ground; lifted up they may be, but they are not <note place="margin">Col. 3. 11. <hi>Tantus quisque est, quantus apud deum.</hi>
+                  </note> really higher; in the Worlds e<g ref="char:EOLhyphen"/>steem they may be, but not in Gods; and a higher place they may have in the Civil Body, but not in the Mystical; for they make no difference in the Kingdom of Christ, though they do in the Kingdoms of Men: It is the New Birth of the Spirit that more eno<g ref="char:EOLhyphen"/>bles, <note place="margin">Acts 17. 11. <hi>The</hi> Bereans <hi>were more noble</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>better born.</hi>
+                  </note> than a High Birth of the Flesh (the Righteous is more ex<g ref="char:EOLhyphen"/>cellent than his Neighbour); and Grace (the Riches that Wisdom
+<pb n="54" facs="tcp:204176:33"/> gives) and nothing but that, the Manna that falls about the <hi>Israelites</hi> Tents, that (like the party-colou<g ref="char:EOLhyphen"/>red Coat of <hi>Joseph)</hi> is a pledge of special Love, the Favour that he bears to his People for,</p>
+               <p>Every thing but that may be given in Wrath.</p>
+               <p>Since then Common Mercies are no Evidences of Special Love, how little should we rejoyce in them, unless we have the Giver with the Gift, the Kiss with the <note place="margin">
+                     <hi>Cyrus</hi> at a feast (made for his principal offi<g ref="char:EOLhyphen"/>cers) gave to <hi>Artabazus</hi> a Golden Cup, but to <hi>Chrysantes</hi> a Kiss, which was envied by <hi>Artabazus,</hi> as a Testimony of the greater Fa<g ref="char:EOLhyphen"/>vour.</note> Cup, the Countenance with the Coin, the Stamp with the Bullion, <hi>viz.</hi> them in a way of Special Co<g ref="char:EOLhyphen"/>venant, as well as Common Pro<g ref="char:EOLhyphen"/>vidence, and as so many Lines drawn from Christ the Center of Goodness.</p>
+               <pb n="55" facs="tcp:204176:33"/>
+               <p>
+                  <hi>Jacob</hi> and his Sons joy'd but lit<g ref="char:EOLhyphen"/>tle in the full Sacks and Mo<g ref="char:EOLhyphen"/>ney, because they knew not that <hi>Joseph</hi> was their Friend; they were more Afraid than Glad.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="56" facs="tcp:204176:34"/>
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>The things of the World must be no matter of our inordinate Desire, or distracting Care to get.</p>
+               </argument>
+               <p>First, <hi>No matter of our Di<g ref="char:EOLhyphen"/>stracting Care.</hi>
+               </p>
+               <p>WE must be careful for <note place="margin">Phil. 4. 6.</note> nothing; <hi>viz.</hi> for no<g ref="char:EOLhyphen"/>thing, but only to cast away Care; yet so, as to cast it upon God who careth for us. He <note place="margin">1 Pet. 5. 7.</note> undertakes for the burden of Care, and we must do the Duty of it. His Care for us may make us less diffident, but must not less diligent; for his Providence must
+<pb n="57" facs="tcp:204176:34"/> no more cause us to neglect our Diligence, than our Diligence make us deny his Providence. By relying upon him without it, we tempt him, by distrusting him in it, we deny him. Success and E<g ref="char:EOLhyphen"/>vents are his, Industry is ours, and must no more be neglected, then trusted to: For to rely on Provi<g ref="char:EOLhyphen"/>dence, so as to neglect Diligence, is not Faith, but idle Presump<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Gods Providence must not take <note place="margin">Prov. 10. 4. 18. 9.</note> away ours.</p>
+               <p>Secondly, <hi>No Matter of our Inordinate Desire.</hi>
+               </p>
+               <p>All Desires to these things are not unlawful, nor forbid, but that only which is inordinate. We may Love and Desire (for Desire is grounded on Love) what is needful for us, so it be not either in a way of Anxiety or Injustice.</p>
+               <pb n="58" facs="tcp:204176:35"/>
+               <p>1. Of Anxiety.</p>
+               <p>There is a twofold Necessity; one of Subsistence, the other of Expedience; one, relating to our Life, the other to the Comforts of Life; one for our being, the other for our well being; one is Abso<g ref="char:EOLhyphen"/>lute, the other Convenient, but neither Unlawful. We may law<g ref="char:EOLhyphen"/>fully (with <hi>Jacob)</hi> desire Bread to eat, for we live no more without Bread, then we do by Bread alone, <note place="margin">Mat. 4. 4.</note> no more without it, than we do without the Word of Gods Power and Blessing upon it, and so we may things for Convenience too, as well as for necessity, but we must not be peremptory in our desires of either, (for, what we so ask as Bread, or a Fish, may prove a Stone, or a Serpent) but resign our will to Gods, who is engag'd by Promise to supply our wants, though not to gratify our Lusts. <hi>Jacob</hi> desir'd but Bread to eat, and <note place="margin">Gen. 28. 20.</note>
+                  <pb n="59" facs="tcp:204176:35"/> Raiment to put on (just enough to bear his Charges in the way, and to keep him alive in it) <hi>Agur</hi>
+                  <note place="margin">Prov. 30. 8.</note> desir'd but Food convenient (a Window just large enough to let in Light, and keep out Weather) and so must we; as content if we have to Necessity, though not to Superfluity; to Sufficiency, though not to desire; for Food and Ray<g ref="char:EOLhyphen"/>ment <note place="margin">Cibus &amp; potus sunt Christiano<g ref="char:EOLhyphen"/>rum divitiae.</note> are a Christians Riches.</p>
+               <p>A little is as much as we need, more then we deserve, and as much as we should desire.</p>
+               <p>The Petition for daily Bread in the Lords Prayer, is set down (as is usually observ'd) after the great things relating to Gods Glory, and it is but one single Petition, whereas there are many for Spiri<g ref="char:EOLhyphen"/>tual things, intimating thereby, that the motion of our Souls to the things of the Earth should be like that of the Fowls of the Air, who on a sudden come down to
+<pb n="60" facs="tcp:204176:36"/> the Earth for their Food, and on a sudden fly up again; and yet, what insatiable Desires abound in the Hearts of Men? how anxious<g ref="char:EOLhyphen"/>ly solicitous are they for their Bo<g ref="char:EOLhyphen"/>dies? as if there was no God to care for them, and how careless of their Souls, as if he was oblig'd to care for them whether they did or no. Living, as if they had no Souls, or none worthy of their Care; or as if they thought the Earthly House of this Tabernacle, <note place="margin">2 Cor. 5. 1.</note> their Bodies (like that Building of God in the Heavens, the House not made with Hands) was Eter<g ref="char:EOLhyphen"/>nal, and would never be dissolv'd, and fall into the Dust. It is too much the sickness of the World, a Disease that is become Epidemical, the Old, as well as the Young are sick of this disease of the Worms, and many die of it; a death more dishonourable, and of far more dangerous consequence than (with <hi>Herod)</hi> to be eat up of Worms,
+<pb n="61" facs="tcp:204176:36"/> for the never dying Worm will gnaw them.</p>
+               <p>The Covetous shall not inherit the <note place="margin">1 Cor. 6. 10.</note> Kingdom of God.</p>
+               <p>2. Of Injustice.</p>
+               <p>Murmuring at our Wants, will rather withhold than procure the Mercies we need; and rather hin<g ref="char:EOLhyphen"/>der, than further them (like boi<g ref="char:EOLhyphen"/>sterous Winds that keep off the Rain) but an undue seeking of them <hi>(viz.</hi> in a way of Injustice) will curse them to us. The Soul<g ref="char:EOLhyphen"/>dier says he will never be Valiant that will not venture his Body; and they that will be Rich, think they cannot be so, unless they venture their Souls; and there<g ref="char:EOLhyphen"/>fore will not stay until God makes <note place="margin">1 Tim. 6. 9.</note> them Rich, (which he does when he adds his Blessing to our Dili<g ref="char:EOLhyphen"/>gence,) but will make themselves Rich by stepping out of his way to be so, if one way will not do
+<pb n="62" facs="tcp:204176:37"/> it, they will try another, if they cannot find Riches in Gods way, they will seek them in the Devils. An Evil Covetousness prompts them to it, and Mammon they will <note place="margin">Cui nihil satis, nihil turpe.</note> have (the most potent of all tempt<g ref="char:EOLhyphen"/>ing Devils, as <hi>Cornelius Agrippa</hi> calls it) though it be the Mammon of unrighteousness. Prodigious <note place="margin">Hab. 2. 9.</note> Fools! that (thus swallowing down Riches) take down that Poison that they must either vo<g ref="char:EOLhyphen"/>mit <note place="margin">Job 20. 15.</note> up again or die. Labour to lose, and lose while they gain; lose in the Conscience, whilst they get in the Chest; lose their Souls, by getting for their Bodies. A sorry Gain, that will neither con<g ref="char:EOLhyphen"/>tinue long, nor be blessed while it does; for,</p>
+               <p>What the Devils Blessing brings together, Gods Curse will scat<g ref="char:EOLhyphen"/>ter.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="63" facs="tcp:204176:37"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>The things of the World must be ever matter of our Prayer so far as needful for us.</p>
+               </argument>
+               <p>PRayer is the best means we can use, not only to pre<g ref="char:EOLhyphen"/>vent the evil we fear, and either to remove, or sanctify that we feel, but to obtain the Good we want, and to bless that we have: it cannot but speed if rightly per<g ref="char:EOLhyphen"/>form'd either for the particular Mercy desired, or an equivalent, in kind, or vertue, as good, or better; therefore under all our wants, we should send to Heaven; or when ever we desire the World, we should send this Messenger to
+<pb n="64" facs="tcp:204176:38"/> God the Maker of it, as not Anxiously careful in any thing; but,</p>
+               <p>Praying for every thing whilst <note place="margin">Phil. 4. 6.</note> careful for nothing.</p>
+               <p>
+                  <hi>Rebecca</hi> and <hi>Samuel</hi> (a Wife and <note place="margin">
+                     <hi>Oratio fuit Sa<g ref="char:EOLhyphen"/>muelis mater.</hi> Gen. 24. 1, 2, 3, 14. 1 Sam. 1. 10, 11</note> Child of the better sort) were both obtain'd by Prayer, and they are ever the best Mercies (if not Materially, yet formally and even<g ref="char:EOLhyphen"/>tually) that come this way; the Evil will be remov'd, and a Bles<g ref="char:EOLhyphen"/>sing given with them, so that they will be either as pleasant Food, or wholsom Physick.</p>
+               <p>God gives the Blessing, and we by Prayer ask it.</p>
+               <p>They are double Mercies <hi>(Ben<g ref="char:EOLhyphen"/>jamins</hi> Portions,) Mercies with an overplus that come this way.</p>
+               <p>
+                  <hi>Hannah</hi> by Prayer obtain'd, not <note place="margin">1 Sam. 1. 20.</note> only a Child, but a Son (a Bles<g ref="char:EOLhyphen"/>sing
+<pb n="65" facs="tcp:204176:38"/> of the right hand) and a Prophet too. <hi>Hezekiah</hi> by Prayer <note place="margin">Isa. 38. 5, 6.</note> obtain'd, not only his Life, but the addition of a Lease of fifteen years to it, and deliverance for the City: and the blind man in the Gospel by Prayer, reap'd the dou<g ref="char:EOLhyphen"/>ble <note place="margin">John 9.</note> fruit of a single Cure, for the Eyes both of his body and mind were opened by it, and Christ's <note place="margin">Ʋberior gratia quam petitio.</note> Grant to the Thief on the Cross, was greater than his Request.</p>
+               <p>He that desir'd but to be remem<g ref="char:EOLhyphen"/>ber'd by him when in his Kingdom, went up with him into it.</p>
+               <p>Yea the comfort of those Mer<g ref="char:EOLhyphen"/>cies enjoy'd, is ever the best.</p>
+               <p>
+                  <hi>Jacob</hi> that got the Blessing, but not by Prayer, had twenty years trouble about it, but <hi>Isaac</hi> a child of Prayer, was therefore (with<g ref="char:EOLhyphen"/>out which he had not been such) a Son of Laughter.</p>
+               <pb n="66" facs="tcp:204176:39"/>
+               <p>Every Creature, as well as every Providence, is Sanctify'd by it.</p>
+               <p>Mercies obtain'd this way, will be most valued by us, and best secur'd to us.</p>
+               <p>Most valued.</p>
+               <p>Usually, what we easily come by, we (like Children) as easily part with, but what (with <hi>Jacob</hi> and <hi>Hannah</hi> in Prayer) we obtain with difficulty, we receive with Thankfulness, and use with Care.</p>
+               <p>Mercies got by Prayer, and E<g ref="char:EOLhyphen"/>states by Industry, are best va<g ref="char:EOLhyphen"/>lued and kept.</p>
+               <p>Best secured.</p>
+               <p>Not only the being of Mercies, but the Duration and Continuance of them is from God; and unless
+<pb n="67" facs="tcp:204176:39"/> they are this way enstated, con<g ref="char:EOLhyphen"/>firm'd, and setled upon us, they will (like Sand in a Glass, or Wa<g ref="char:EOLhyphen"/>ter in a Sieve) be Fleeting, and Sliding from us. Prayer is a Re<g ref="char:EOLhyphen"/>quest upon Promise, and what is obtain'd by it, will (as Covenant-hold) be stable, and abiding; as,</p>
+               <p>What we possess by Lease, is surer than what we have by Trade.</p>
+               <p>If we would seek them, so as to find them, and find them, so as to be blessed in them, in all our Re<g ref="char:EOLhyphen"/>quests, we must aim at Gods Glo<g ref="char:EOLhyphen"/>ry, submit to his Will, wait his leisure for them, and beg his Blessing with them.</p>
+               <p>We must aim at Gods Glory.</p>
+               <p>
+                  <hi>David</hi> begg'd his Life of God, <note place="margin">Psal. 88. 10, 11.</note> that God might have it (in the <note place="margin">1. Sam. 1. 11.</note> use) again; and <hi>Hannah</hi> begg'd a Son of God, for God; a Son from him, to give unto him.</p>
+               <pb n="68" facs="tcp:204176:40"/>
+               <p>All Temporal Blessings must be askt for Spiritual Ends.</p>
+               <p>We must submit to his Will.</p>
+               <p>Spiritual things are promis'd ab<g ref="char:EOLhyphen"/>solutely, Temporal things conditio<g ref="char:EOLhyphen"/>nally only, they are not therefore the only things to be sought for (who would desire all his Heaven <note place="margin">Mat. 6. 33.</note> here) nor in the first place, either of our Time or Affections, before other things, nor above them, nor too importunately neither, but so far only as they are good and needful. Our Desires must not be peremptory, nor must we tell God what we must or would have, but leave it to him to choose our Inhe<g ref="char:EOLhyphen"/>ritance for us, lest we feel the ef<g ref="char:EOLhyphen"/>fects of his Anger, in a withering Curse at the root of our Gourd.</p>
+               <p>Nothing must importunately be sought of God, but God him<g ref="char:EOLhyphen"/>self.</p>
+               <pb n="69" facs="tcp:204176:40"/>
+               <p>We must wait his Leisure.</p>
+               <p>God knows what is best for us, and the time when best for us to receive it, he keeps not the fruit of his Mercy by him until it is rot<g ref="char:EOLhyphen"/>ten, nor gives it before it is ripe. We must not therefore think to force Mercy out of his hands, by an over-hasty desire of it, but pa<g ref="char:EOLhyphen"/>tiently wait his time, which is a due, as well as an appointed time.</p>
+               <p>Till'd Ground is best for Seed, and then we are fittest to beg, and receive Mercies, when fit<g ref="char:EOLhyphen"/>test to enjoy them.</p>
+               <p>We must beg his Blessing with them.</p>
+               <p>Bread is the staff of Life, but <note place="margin">Isa. 3. 1. Mat. 4. 4.</note> God is the Strength of that staff; he feeds us by it, but more, by his Blessing upon it. It is he that
+<pb n="70" facs="tcp:204176:41"/> gives a Being to all our Mercies, (it is his Ocean that overflows our Banks) and it is he, and he alone, that can give a Blessing to them, he can withhold them from us, and he can Curse them to us (as he did the Quails to the <hi>Israelites)</hi> to him therefore we must look, and upon him only depend, for a sup<g ref="char:EOLhyphen"/>ply of what we want, and for a Blessing upon what we have. The first is more than he owes us (for, by our sins we forfeited our Right to all) but the last not more than is needful for us, for a little blest, is better than much, yea than all without it. A little or nothing with the Blessing is e<g ref="char:EOLhyphen"/>nough, but all without it as no<g ref="char:EOLhyphen"/>thing. It concerns us therefore to desire, that all our Mercies may be season'd with the Blessing; that if we have not so much of the World as others, yet we may have as much of himself; the Blessing, if not the Inheritance; without which, the best of the World can
+<pb n="71" facs="tcp:204176:41"/> do us no good, and with which, <note place="margin">Gen. 33. 9, 11. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> the worst can do us no hurt; for, then we are Rich, when under Gods Blessing.</p>
+               <p>
+                  <hi>Esau</hi>'s enough was much, <hi>Jacob</hi>'s Enough was all.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="72" facs="tcp:204176:42"/>
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>The things of the World must be no matter of our immoderate Joy.</p>
+               </argument>
+               <p>JOY is the Enlargement of the Heart as delighted in the Ex<g ref="char:EOLhyphen"/>pectation or Fruition of some sutable good, really so or so ap<g ref="char:EOLhyphen"/>prehended, of a luxuriant Nature, and prone to Exorbitancy: for though Spiritual Joy cannot well exceed, yet that which is Worldly may, both as to time and measure. Therefore in the Flood of Prospe<g ref="char:EOLhyphen"/>rity we must have an Eye to our Compass, that our Hearts may be kept within the right Channel.</p>
+               <pb n="73" facs="tcp:204176:42"/>
+               <p>Mediocrity does well, but the <note place="margin">Res severa gau<g ref="char:EOLhyphen"/>dium. <hi>Seneca:</hi>
+                  </note> Excess is Vicious.</p>
+               <p>Religion destroys not our Af<g ref="char:EOLhyphen"/>fections, but only refines them; (Christ took not away the Water of Purification, but turn'd it into Wine) it condemns not, but al<g ref="char:EOLhyphen"/>lows and encourages our Joy, when it is not in things that are not Lawful, nor immoderate in them that are.</p>
+               <p>It is not <hi>Isaac,</hi> but the Ram that must be Sacrificed.</p>
+               <p>When sensual Joy abounds, danger is at the door; (when the Dolphins play, the Marriners fear a Storm) therefore, if we would have our dead Hearts rais'd to Life, we must cast these Minstrels out. <note place="margin">Mat. 9. 23, 25.</note>
+               </p>
+               <p>Sensual Joy layes a Snare for Spiritual.</p>
+               <pb n="74" facs="tcp:204176:43"/>
+               <p>When we are rejoycing, there are some in Sorrow; we must not therefore cast out Compassion to make room for Joy, nor be so much straitned in our Bowels, <note place="margin">2 Cor. 6. 12.</note> when our Hearts are enlarg'd, as to forget them that are Sorrowful, while we are Rejoycing; but when at the Feasts of Mirth, send <note place="margin">Esth. 7. 34. 9. 22.</note> Portions to them that are in want, that (in this sense whilst they re<g ref="char:EOLhyphen"/>joyce with us) our Joy may be full.</p>
+               <p>There is a Sympathy in Nature, and therefore should be much more one in Grace.</p>
+               <p>That was the best Wine, that <note place="margin">John 2. 10.</note> Christ turn'd from Water into Wine, and that is the purest Joy that is distill'd from Godly Sor<g ref="char:EOLhyphen"/>row, and therefore, in the midst of our Mirth, we must be sad at the remembrance of our Sins, that the Sun of our Joy may arise out
+<pb n="75" facs="tcp:204176:43"/> of the Waters of Godly sorrow for them.</p>
+               <p>The more Sorrow for Sin we let out, the more Joy we shall take in, the Pots that had the most Water, had the most Wine.</p>
+               <p>We live in a Miserable World, where Happiness and Misery, Joy and Sorrow (like <hi>Jacob</hi> and <hi>Esau)</hi> tread upon the Heels of one ano<g ref="char:EOLhyphen"/>ther. It concerns us therefore to rejoyce, as if we rejoyced not, for <note place="margin">1 Cor. 7. 30.</note> at the best it is but a Feast of Ta<g ref="char:EOLhyphen"/>bernacles.</p>
+               <p>It is folly to rejoyce overmuch in any thing, in which we cannot rejoyce long.</p>
+               <p>Worldly Joy when immoderate layes a Foundation for Sorrow; <hi>Benjamin</hi> prov'd a <hi>Benoni,</hi> and <note place="margin">Gen. 35. 18.</note> our Idol will become our Tor<g ref="char:EOLhyphen"/>ment, it will either be broken in pieces, or continue as a Sting, re<g ref="char:EOLhyphen"/>main
+<pb n="76" facs="tcp:204176:44"/> as a Curse, or be remov'd in Wrath.</p>
+               <p>Wo be, either to the Idol, or Idolater.</p>
+               <p>God must be the object of our chiefest Joy; other things may be the matter of our occasional Joy, but God only must be our substan<g ref="char:EOLhyphen"/>tial, and exceeding Joy. There<g ref="char:EOLhyphen"/>fore, in the midst of our Joy, we must not so far forget our selves, as to forget him the object of our chiefest Joy; (the gladness of our <note place="margin">Psal. 43. 4.</note> Joy;) for it is as much our Duty to Rejoyce in him, as it is to Trust in him; and if we rejoyce in any thing more than in him, we shall never be made joyful by him.</p>
+               <p>Laughter becomes not such Fools, nor is the Oyl of Joy prepar'd for their Heads.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="77" facs="tcp:204176:44"/>
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>The things of the World from the greatest to the least must be ever matter of our Praise.</p>
+               </argument>
+               <p>HEaven and Earth Praise <note place="margin">Psal. 107. 8, 9, 10.</note> God.</p>
+               <p>The Heavens, <hi>viz.</hi>
+               </p>
+               <p>The Celestial and Highest Hea<g ref="char:EOLhyphen"/>vens.</p>
+               <p>Angels and Saints, the Glorious Inhabitants there, in that Heaven<g ref="char:EOLhyphen"/>ly Quire continually Praise him; their Note is, <hi>Allelujah, Salvation</hi>
+                  <note place="margin">Rev. 19.</note>
+                  <hi>and Glory, Honour and Power un<g ref="char:EOLhyphen"/>to the Lord our God.</hi>
+               </p>
+               <pb n="78" facs="tcp:204176:45"/>
+               <p>The Upper Heavens;</p>
+               <p>The Sun, Moon, and Stars of Light Praise him, the Father of Lights by whom they were made.</p>
+               <p>The lowest Heavens;</p>
+               <p>The Fowls and Meteors there<g ref="char:EOLhyphen"/>in Praise him who in his Wisdom made them; no less wonderful in their Nature than Variety.</p>
+               <p>The Earth (which includes both Sea and dry Land) Praises him.</p>
+               <p>The Sea.</p>
+               <p>The Great Water-work of God, and all the Scaley Inhabitants that trace the Liquid Paths of that Wa<g ref="char:EOLhyphen"/>tery World.</p>
+               <p>The dry Land.</p>
+               <p>The Footstool of God, and the
+<pb n="79" facs="tcp:204176:45"/> fulness thereof Praises him, who laid the Foundation thereof by his <note place="margin">Job 38. 4. Jer. 10. 12.</note> Power, and established the World by his Wisdom.</p>
+               <p>The Heaven of Heavens, and all the Inhabitants in that Celestial Countrey, the upper and lower Heavens, with the Host thereof, the Sun, Moon, and all the Stars of Light, Fire and Hail, Snow, Va<g ref="char:EOLhyphen"/>pours, <note place="margin">Psal. 148. 2, 3, 4, 7.</note> Stormy Winds, and flying Fowl declare his Glory, and show his Handy-work, the Earth and the things contain'd therein, Moun<g ref="char:EOLhyphen"/>tains and all Hills, Fruitful Trees and all Cedars, Beasts, and all Cattel, Creeping things on the Earth, Dragons, and all Deeps Praise him, the Sea Roars, and the fulness thereof, the Mountains skip like Rams, and the little Hills like Lambs, the Floods clap their Hands, and the Hills rejoyce toge<g ref="char:EOLhyphen"/>ther, and in all, praise him whose Name alone is Excellent, and whose Glory is above the Earth and Hea<g ref="char:EOLhyphen"/>vens.</p>
+               <pb n="80" facs="tcp:204176:46"/>
+               <p>Those Creatures that have no Tongues, yet Praise him with such obedient Testimonies as their in<g ref="char:EOLhyphen"/>sensible Natures afford. There is no Speech nor Language, where their Voice is not heard, their line is gone out through all the Earth, and their Words to the end of the World. And those that have Tongues, though no Reason, yet praise him with those natural <note place="margin">Psal. 19. 3, 4.</note> Organs, how much more then should Man who has a Tongue, (a Vocal Instrument) Reason to guide his Tongue, a Rule to di<g ref="char:EOLhyphen"/>rect his Reason, and Mercy to ob<g ref="char:EOLhyphen"/>lige it, abound in praise, which is a Heaven upon Earth, and will be the work of Heaven to all Eterni<g ref="char:EOLhyphen"/>ty, but no work of ours there, un<g ref="char:EOLhyphen"/>less begun by us here,</p>
+               <p>None but wicked men on Earth, Devils and Damned Spirits in Hell deny it.</p>
+               <p>We can never sufficiently praise
+<pb n="81" facs="tcp:204176:46"/> God, should we live everlastingly to do it, nor add any thing to him by it; for he was Essentially Glo<g ref="char:EOLhyphen"/>rious from all Eternity, before there was either an Angel in Hea<g ref="char:EOLhyphen"/>ven to praise him, or a man upon Earth to speak good of his Name; a declarative Honour indeed it is, that so many Millions of Angels, and Glorify'd Saints are about his Throne, ascribing Blessing and Glory, Thanksgiving and Hon<g ref="char:EOLhyphen"/>our <note place="margin">Rev. 7. 12.</note> to him that sits upon it, but a greater Honour it is, that he does not need it; for he is higher <note place="margin">Neh. 9. 5.</note> than the Praises of Heaven and Earth.</p>
+               <p>His Praise may be made Glorious, (make his Praise Glorious) <note place="margin">Psal. 66. 2.</note> but his Essence cannot.</p>
+               <p>Our highest Praises are nothing to our meanest Mercies, and less than nothing to the Giver of them, who, though sometimes pleased with them, is at no time profited
+<pb n="82" facs="tcp:204176:47"/> by them, yet it is our Duty to Praise him; for, as Transcendent<g ref="char:EOLhyphen"/>ly Glorious in himself, he is the highest Object of our Praise, and it is due to him for his own Excel<g ref="char:EOLhyphen"/>lencies, and continually due, (for as he ever was, so he ever will be Essentially Glorious); Due, though we never had received any Mercy from him but our First Being, but doubly due, and the more oblig<g ref="char:EOLhyphen"/>ing since we have; <hi>viz.</hi> to him as a Glorious God in himself, and as a Gracious God to us; as the chief Good in himself, and as con<g ref="char:EOLhyphen"/>tinually doing Good to us. It is He, more than the Clouds, that affords us Fruitful Seasons; He, more than the Earth, (that <hi>bona Dea</hi> as the <hi>Heathens</hi> call'd it) that gives us plenty; He, more than either our Power, or Policy, that continues our Peace; He, more than Bread, that keeps us in Health; and He, more than Phy<g ref="char:EOLhyphen"/>sick, that Cures us when sick. He in these, and He, more than these;
+<pb n="83" facs="tcp:204176:47"/> for the Efficient and Universal Cause works more than the Instru<g ref="char:EOLhyphen"/>mental and Particular. He only is the Author of our Mercies, and he only must be the Object of our Praise; we receive all from him, and must return the Praise of all to him. Not to our selves, but to him; not to others, but to him, and to him alone; the Father of Mercies, through Christ the Son <note place="margin">2 Cor. 13. Eph. 3. 20.</note> (the Mediator of our Praises as well as Prayers) we must as obe<g ref="char:EOLhyphen"/>dient Children offer up the Sacri<g ref="char:EOLhyphen"/>fice of Praise, and this, not only for our Mercies, but for our Praises too; for, we are Debtors for both, can give him nothing but his own, and our Honour it is, <note place="margin">1 Chro. 29. 14.</note> and not his, if he will receive it from us.</p>
+               <p>The Rabbins say that <hi>Moses</hi> was kept out of <hi>Canaan,</hi> because he ascribed too much to himself.</p>
+               <p>All Mercies are not alike (no
+<pb n="84" facs="tcp:204176:48"/> more than all Sins) some are grea<g ref="char:EOLhyphen"/>ter than others, though the least too great for us. They, must have a <hi>Selah,</hi> a mark of special ob<g ref="char:EOLhyphen"/>servation set upon them, and these must have an <hi>observandum</hi> too. They in an especial manner must be remembred, but These must not be forgotten; They must have high Praise in Ditty, and Tune; and Elah, a Song of the highest strain attend them (the <hi>Jews</hi> in the Passover had a great <hi>Hallelu<g ref="char:EOLhyphen"/>jah)</hi> and these must have a Song of Praise too. They, a <hi>Magni<g ref="char:EOLhyphen"/>ficat,</hi> and These a <hi>Benedictus;</hi> for,</p>
+               <p>God will be prais'd (as the <hi>He<g ref="char:EOLhyphen"/>brews</hi> say) in the least Emmet, or Gnat, as well as admired in the Sun, Moon, and Stars, and magnify'd in the Elephant and Leviathan.</p>
+               <p>The <hi>Israelites</hi> had, not only their Feasts of Praise once in an
+<pb n="85" facs="tcp:204176:48"/> Age (a year of <hi>Jubilee);</hi> every se<g ref="char:EOLhyphen"/>ven years (the Sabbatical Year;) once in a year, (the Feast of Trum<g ref="char:EOLhyphen"/>pets); once in a quarter of a year (the Feast of Dedication); once in a Month (the Feast of New Moons); once in a Week (every Sabbath); <note place="margin">Joh. 10. 22.</note> but once in a Day, yea twice; both morning and evening, in Publick; at set times and charge, they Praised God.</p>
+               <p>And all <hi>Davids</hi> Psalms are ei<g ref="char:EOLhyphen"/>ther <hi>Hosannah</hi>'s or <hi>Hallelujah</hi>'s, <hi>viz.</hi>
+                  <note place="margin">Psa. 8, 11, 25, 26. <hi>God bless, or God be blessed.</hi>
+                  </note> Prayers or Praises; the one for Mercies needed, the other, for Mercies receiv'd: And so must the daily Service of our Lives be; <hi>viz.</hi> either Supplicatory for what we want, or Gratulatory for what we have. The want of Mercy must send us Prayer, the receipt of Mercy to Praise. Since then, we have not only our first Being, but our continual Being from God;
+<pb n="86" facs="tcp:204176:49"/> and not only our Being, but our well Being too. We must Praise him while we have our Being, since we sit daily at the receipt of new Mercies, are fed to the full, and all upon Free-cost, and are daily blessed by God, we must in every thing give thanks, and at all times be blessing of him, as unsatisfy'd with the least Mercy without it, as we would with the greatest, without him the Giver of it.</p>
+               <p>Eucharistical and Peace-offerings were to be as Constant, as Ex<g ref="char:EOLhyphen"/>piatory and Supplicatory.</p>
+               <p>It is lookt upon as a Check to <note place="margin">Gen. 35. 1.</note>
+                  <hi>Jacob</hi> (whom the Rabbins call <hi>votorum Pater)</hi> when God bid him go up to <hi>Bethel,</hi> to pay his Vows, as if he had either forgot to do it, or was unwilling to it, but it was <hi>Zion</hi>'s Glory, that there Praise waited for him <hi>(Praise waiteth for thee, O God, in Zion.)</hi>
+                  <note place="margin">Psal. 65. 1.</note> There it was due, and it is every
+<pb n="87" facs="tcp:204176:49"/> where else, in all places, and at all times, and therefore must al<g ref="char:EOLhyphen"/>ways wait for him, not he for that; nor is it fit he should, (though sometimes he does, and goes with<g ref="char:EOLhyphen"/>out it) for it is the Glory due un<g ref="char:EOLhyphen"/>to <note place="margin">Psal. 29. 2.</note> him.</p>
+               <p>It is due at sight, the Debt is pre<g ref="char:EOLhyphen"/>sent pay, and we are not just, if we deny him his due, or with<g ref="char:EOLhyphen"/>hold it from him.</p>
+               <p>The Tongue is the best Inter<g ref="char:EOLhyphen"/>preter of the Mind, and Mans <note place="margin">Psal. 108. 1.</note> Glory; not only as his Preroga<g ref="char:EOLhyphen"/>tive above other Creatures, by this to express his Mind, but as an Instrument ordain'd for Gods Praise, in the advancement of which, his chief Glory consists. It is his Glory, as it is the Glorifier of God; but yet, the Heart must bear a part, and the chiefest part with it in the Song of Praise. There must be an <hi>Amen</hi> to our Praises, as well as to our Prayers,
+<pb n="88" facs="tcp:204176:50"/> and therefore, whilst we bless with our Lips, we must not forget to say <hi>Amen</hi> with our Hearts. <note place="margin">Psal. 103. 1.</note>
+               </p>
+               <p>The fuller the Quire, and the deeper the Belly of the Instru<g ref="char:EOLhyphen"/>ment, the louder and sweeter the Musick; and the more there is of the heart here, the better.</p>
+               <p>By offering Praise we glorifie God, and by ordering our Con<g ref="char:EOLhyphen"/>versation aright, we Praise him. Therefore when we Bless with our Lips, we must not Curse with our Lives, but Live to his Praise as well as speak to it.</p>
+               <p>They that live best are ever most thankful.</p>
+               <p>This will,
+<list>
+                     <item>1. Evidence our Ʋprightness.</item>
+                     <item>2. Continue the Mercies we have.</item>
+                     <item>3. Procure the Mercies we want.</item>
+                  </list>
+               </p>
+               <pb n="89" facs="tcp:204176:50"/>
+               <p>1. It will Evidence our Ʋpright<g ref="char:EOLhyphen"/>ness.</p>
+               <p>
+                  <hi>David</hi> (as St. <hi>Chrysostom</hi> sayes) was therefore call'd a Man after Gods own Heart, because a man of so much Praise, his <hi>Psalms</hi> of Praise are twice as many as those of Prayer. This was (as one sayes) the chief String of his Harp, the sweetest compound in his In<g ref="char:EOLhyphen"/>cense, and the best Odour in his Sacrifice: and Praise is comely for <note place="margin">Psal. 33. 1.</note> the upright, it is their Honour, and it is their Badge and Cognizance too, not only their Duty, but their Practice; for Uprightness tends to it, as Waters to the Sea. All can receive Mercies, (as <hi>Han<g ref="char:EOLhyphen"/>nibal</hi> knew how to get Victories, but not how to use them) but the Upright only so as to be thankful for them, all have cause to praise God, but they only have Hearts to do it.</p>
+               <pb n="90" facs="tcp:204176:51"/>
+               <p>Necessity may send us to Prayer, but Ʋprightness leads to Praise, as naturally, as the Sparks fly upward.</p>
+               <p>2. It will continue the Mercies we have.</p>
+               <p>All the Patents of Gods Mercy are Conditional, though he gives Mercy to us, yet he reserves a power (a right in himself) to continue, or remove it as he sees <note place="margin">Durante bene<g ref="char:EOLhyphen"/>placito.</note> fit. Unbelief withholds the Mer<g ref="char:EOLhyphen"/>cies we need (not for want of power in God to give, but dispo<g ref="char:EOLhyphen"/>sition in us to receive). Ingrati<g ref="char:EOLhyphen"/>tude will remove what we enjoy, Faith will fetch in what we want, and Gratitude will continue what we have; by that we shall receive, by this, we shall be happy and enjoy.</p>
+               <p>Faith is the Price, and Praise is the Quit-rent of all.</p>
+               <pb n="91" facs="tcp:204176:51"/>
+               <p>3. It will procure the Mercies we want.</p>
+               <p>Thankfulness for what we have, is the best method to procure that which we have not: We are ne<g ref="char:EOLhyphen"/>ver thankful for one Mercy, but we store up another by it. Va<g ref="char:EOLhyphen"/>pours, first ascend, and then de<g ref="char:EOLhyphen"/>scend; and every Breath of Praise <note place="margin">Optima petitio gratiarum actio; ascensus gratiae descensus gratiae.</note> that ascends, returns in a new Mer<g ref="char:EOLhyphen"/>cy to us, so that whilst Gratitude goes up, Mercy will come down.</p>
+               <p>A good Pay-master ever makes a good Borrower.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="92" facs="tcp:204176:52"/>
+               <head>CHAP. IX.</head>
+               <argument>
+                  <p>The things of the World must be cautelously used, and faithfully improved.</p>
+               </argument>
+               <p>First, <hi>They must be Cautelously used.</hi>
+               </p>
+               <p>THere is but little in the World, but we either find, or make a hinderance to us in the work of Religion. Wis<g ref="char:EOLhyphen"/>dom therefore must direct us to forbear Lawful things sometimes, that we may have the greater po<g ref="char:EOLhyphen"/>wer over those that are Unlaw<g ref="char:EOLhyphen"/>ful.</p>
+               <pb n="93" facs="tcp:204176:52"/>
+               <p>We may kill our selves with Food, and do our selves good with Poison.</p>
+               <p>The Devil lies in Ambush be<g ref="char:EOLhyphen"/>hind our Lawful Enjoyments, to entrap us, and usually tempts us more to an Excess in Lawful things, than in those that are not, and thereby destroys us, as <hi>Agrippina</hi> kill'd <hi>Claudius</hi> by the Poison she put into the Meat that he lov'd most.</p>
+               <p>The more an Enemy is lov'd, or the less he is seen, the more dangerous he is.</p>
+               <p>It is easie passing from what is <note place="margin">Solus in illicitis non cadet qui se aliquandò &amp; a licitis cautè re<g ref="char:EOLhyphen"/>stringit.</note> Lawful, to that which is not; from Frugality, to Covetousness; from Neatness, to Pride; from Lawful Mirth, to Wantonness; from the use of a little Wine to cure the Infirmities of the Sto<g ref="char:EOLhyphen"/>mach, to an abuse in the Excess,
+<pb n="94" facs="tcp:204176:53"/> that will rather Increase, than Cure them: (The <hi>Grecians</hi> began with little Cups, and went on to greater) as it is easie in Procession to go beyond the bounds; there<g ref="char:EOLhyphen"/>fore we must take heed that we go not to the utmost Limits.</p>
+               <p>By doing all that we may, we may at last do something that we should not.</p>
+               <p>Eating and Drinking, Marrying <note place="margin">Mat. 24. 38.</note> and giving in Marriage in the days of <hi>Noah,</hi> were not things evil in themselves; nor <hi>Martha</hi>'s Hospi<g ref="char:EOLhyphen"/>tality <note place="margin">Luk. 10. 40, 41.</note> (for if ever it was Lawful to neglect a Sermon to prepare a Dinner, it was surely then for such a Guest as Christ) but both were occasionally so; one, as leading to Sensuality, and that, to a dis<g ref="char:EOLhyphen"/>regard of that desolating Judg<g ref="char:EOLhyphen"/>ment coming upon them; the o<g ref="char:EOLhyphen"/>ther, as distracting her Mind, and diverting her thoughts, that then might, and should have been bet<g ref="char:EOLhyphen"/>ter
+<pb n="95" facs="tcp:204176:53"/> employ'd. Nor is it the Use, but the Abuse of Worldly things that we are forbid, because of the danger that may arise to us by it. It was Oxen bought, not stoln; and a Wife, not a Harlot, that <note place="margin">Luk. 12.</note> kept them in the Parable from coming to the Wedding Feast. It is not Poison, but Food (in the Excess) that kills most, not the bare, but unlawful use of Worldly things that does us all the Mis<g ref="char:EOLhyphen"/>chief; it is easily done, and of dan<g ref="char:EOLhyphen"/>gerous consequence when it is. It concerns us therefore to be Wise, and Cautious in the use of them, that they may tend to nourishment and preservation of our health.</p>
+               <p>We must come to our Food (as <hi>Austin</hi> sayes he did) as to our Physick, lest we make Food for our Lusts out of it.</p>
+               <p>A spare Diet is best for Body <note place="margin">Pro remedio par<g ref="char:EOLhyphen"/>cius, non pro de<g ref="char:EOLhyphen"/>liciis redundan<g ref="char:EOLhyphen"/>tius.</note> and Soul.</p>
+               <pb n="96" facs="tcp:204176:54"/>
+               <p>We must put a Restraint upon our Lawful Mirth, Rejoyce with <note place="margin">Psal. 2. 11. Prov. 14. 13.</note> Trembling, lest the End of that Mirth be Heaviness.</p>
+               <p>A Sorrow, greater than our Joy.</p>
+               <p>When swimming in Pleasures, we must sound the depth of the Water, and keep our head above it, lest we be drown'd in Destru<g ref="char:EOLhyphen"/>ction. <note place="margin">1 Tim. 6. 9.</note>
+               </p>
+               <p>Like the Fish swimming in the River <hi>Jordan,</hi> that on a sud<g ref="char:EOLhyphen"/>den are carried down into the dead Sea.</p>
+               <p>We must buy as not possessing (keep to the Rule) lest we buy dear, and sell cheap.</p>
+               <p>As <hi>Judas,</hi> who bought his Dam<g ref="char:EOLhyphen"/>nation, when he sold his Ma<g ref="char:EOLhyphen"/>ster.</p>
+               <pb n="97" facs="tcp:204176:54"/>
+               <p>And use the things of the World so as not to abuse either them or our selves, in making them a hin<g ref="char:EOLhyphen"/>derance, in our Love to, our De<g ref="char:EOLhyphen"/>sire after, our Attendance upon, and our Joy and Delight in the things of Heaven.</p>
+               <p>It is a happy House where <hi>Martha</hi> complains of <hi>Mary,</hi> or becomes serviceable to her.</p>
+               <p>2. They must be faithfully im<g ref="char:EOLhyphen"/>prov'd.</p>
+               <p>We must not altogether lay up for our selves, but lay out by using what we have in a way of Service to God, as well as Benefit to our selves, and it will be so to us, when so used for him,</p>
+               <p>We are enricht by giving to others, and at once, both please God, and profit our selves.</p>
+               <pb n="98" facs="tcp:204176:55"/>
+               <p>The Oxe and the Ass (of all Brutish Creatures, the most heavy and dull) pay a kind of Homage <note place="margin">Isa. 1. 3.</note> to their Feeder, the Clouds return the Vapours exhal'd in showers, and the dull Earth a Crop to him that Till'd it. How much more then should Man, in whom Affecti<g ref="char:EOLhyphen"/>ons are planted, sutable to every Condition, and Graces to every Affection, to whom a time is al<g ref="char:EOLhyphen"/>low'd for the exercise of every Grace, and Mercy given to oblige him, make a sutable return to God, according to what he has receiv'd from him.</p>
+               <p>Nothing is so mean or contemp<g ref="char:EOLhyphen"/>tible, but may be put to some use, (Spirits may by a Limbeck be drawn out of Dregs) nor any Mercy so mean, but we may, and in Reason ought to be Serviceable by it to God the Supream Donor, the least obliges to it, and the least (where no more is given)
+<pb n="99" facs="tcp:204176:55"/> when so improv'd, shall be accept<g ref="char:EOLhyphen"/>ed of him.</p>
+               <p>Then plenty of the Widows Love, <note place="margin">Luk. 21. 4.</note> was more regarded than the Penury of her Gift.</p>
+               <p>God is the great Proprietor, we <note place="margin">Hos. 2. 5, 9.</note> are but Stewards; he gives Mer<g ref="char:EOLhyphen"/>cies to us, but he does not give away, but reserve his Title to them. The Corn and the Wine, the Wooll and the Flax, the Gold and Silver, the Lands, and Houses, the Parts and Strength we enjoy, and whatever else we have, are all his; they were his, before they were ours; they are his when ours; his, more than ours; for they are only ours, that they may be his again, <hi>viz.</hi> ours for use, that they may be his for improve<g ref="char:EOLhyphen"/>ment.</p>
+               <p>By unlawful means of getting, we steal them from God, and by an unlawful use, detain them,
+<pb n="100" facs="tcp:204176:56"/> and in both, injure our posses<g ref="char:EOLhyphen"/>sion.</p>
+               <p>God has made the Poor to try the Rich; the Rich, to relieve the Poor; (as some Fields have Corn for the supply of them that lie Fallow). He is Rich in Bles<g ref="char:EOLhyphen"/>sing, that they may be Rich in giving (enriched in every thing <note place="margin">2 Cor. 9. 11, 12.</note> to all bountifulness) and fills their <note place="margin">Prov. 3. 10.</note> Barns with Plenty, and their Houses with Gold and Silver; <note place="margin">Job 3. 15.</note> not that they should only eat and be fill'd, but, that when full they should run out for the supply of others, that they may be filled <note place="margin">Deut. 26. 12, 13</note> too.</p>
+               <p>Where takings are great, there the Rent is great.</p>
+               <p>It is Gods Honour, that he com<g ref="char:EOLhyphen"/>municates of his Goodness (as he is communicative, he is the Object of our Faith) and it will be our
+<pb n="101" facs="tcp:204176:56"/> Honour to be so too, he maketh his <note place="margin">Mat. 5. 44, 55.</note> Sun to rise on the Evil, and on the Good, and sends Rain on the Just and on the Unjust, the Foun<g ref="char:EOLhyphen"/>tain of his Goodness stands open to all, and so must ours, <hi>viz.</hi> to Enemies, as well as Friends; and to the Evil, as well as the Good. The Good, must in an especial manner be regarded (especially to the Houshold of Faith) but the <note place="margin">Gal. 6. 10.</note> Evil must not be forgot; their Nature must be reliev'd though not their Lusts, and their Persons indulg'd, though not their Sins.</p>
+               <p>To starve the Sin is Kindness, the Man is Murder.</p>
+               <p>A gentle Shower is enough for the Earth that is moist, but a grea<g ref="char:EOLhyphen"/>ter is needful for that which is dry and hard. A little will serve where no more is wanting, but where more is needed, there, as well as where much is given, much will be required. Proportiona<g ref="char:EOLhyphen"/>bly
+<pb n="102" facs="tcp:204176:57"/> therefore to what we have, and others want, must our boun<g ref="char:EOLhyphen"/>ty be.</p>
+               <p>
+                  <hi>Zacheus</hi> his Garment will not serve <hi>Goliath</hi>'s Body.</p>
+               <p>We are not bid to give away all, nor must we withhold all nei<g ref="char:EOLhyphen"/>ther; if we have two Coats we may keep one for our selves, but we must not keep both, if there are any that have none. We are not to undo our selves by our Charity to others, nor is there any great danger we will (by this, we should act Cruelly to our selves, by showing Mercy to others, and appear, rather in the number of Fools, than the Communion of Saints); nor yet, to let any Perish through a neglect of it; we are not bid to give above our Ability, nor must we below it, but accord<g ref="char:EOLhyphen"/>ing to it; yet, better it is to be willing (with the <hi>Macedonians)</hi>
+                  <note place="margin">2 Cor. 8. 3.</note> beyond our power, than able
+<pb n="103" facs="tcp:204176:57"/> (with churlish <hi>Nabal)</hi> beyond our Will, or rather want (with the Widow) then let the Treasure be unsupply'd.</p>
+               <p>It was not the Fat, but Lean Sa<g ref="char:EOLhyphen"/>crifice that was an Abomina<g ref="char:EOLhyphen"/>tion to God.</p>
+               <p>In two things we are (as the Philosopher sayes) like to God, <hi>viz.</hi> in speaking Truth, and in bestowing Benefits.</p>
+               <p>He is Merciful, (for, he is the Father of Mercies) and so are his Children Merciful too, for, they are Vessels of Mercy, <hi>viz.</hi> both Passively and Actively, such as have receiv'd Mercy; and such as Vessels when fill'd, run out in Mercy to others.</p>
+               <p>God is the Fountain of Mercy, and all the Streams of it flow free<g ref="char:EOLhyphen"/>ly and constantly, they have been of old, and run as strong, and as
+<pb n="104" facs="tcp:204176:58"/> fresh now as ever, and so must the streams of our Mercy too, if we would appear as the Children of him our Heavenly Father, <hi>viz.</hi> Freely and Constantly.</p>
+               <p>1. Freely.</p>
+               <p>We must show Mercy with our <note place="margin">Deus ponderator Spiritus magis quam panis.</note> Hearts, as well as with our Hands, as willing, and ready to it, as glad, that we have any thing to give, and more ready to it, than they that need, can be, either to ask, or receive it: As <hi>Archiselaus,</hi> who, when he saw his Friend in want, and bashful, conveigh'd Money under his Pillow, that he might seem rather to Find than to Re<g ref="char:EOLhyphen"/>ceive.</p>
+               <p>Our Charity must not be forc'd from us, but given by us, gi<g ref="char:EOLhyphen"/>ven, not bought, as the Charity of many is, who make the needy buy it with their Tears, and
+<pb n="105" facs="tcp:204176:58"/> many times pay more for it, than it is worth.</p>
+               <p>2. Constantly.</p>
+               <p>All Gods wayes are Mercy, and so must all ours be too, not at sometimes only (like a Misers Feast) but at all times; while Living, as well as when Dying; and in both, as we have an op<g ref="char:EOLhyphen"/>portunity, and Ability.</p>
+               <p>
+                  <hi>Sampson</hi>'s Lion afforded no Meat, until dead, and they are the worse Beasts of the two that are not good till then (like some fruit, never good till rotten) they give nothing but what they cannot keep, nor until they cannot; and what is rather surrender'd than given; taken from them, rather than given by them: For, though it is something by their Testament, it is nothing by their Will.</p>
+               <p>The Eagle knows hers by the Eye, <note place="margin">Oculis inconni<g ref="char:EOLhyphen"/>ventibus.</note> and God his by the Hand;
+<pb n="106" facs="tcp:204176:59"/> the Liberal Man deviseth Li<g ref="char:EOLhyphen"/>beral things.</p>
+               <p>There is a keeping to loss (there <note place="margin">Prov. 11. 24.</note> is that withholdeth more then is meet, and it tendeth to Poverty) and there is a giving to Gain: (there is that scattereth, and yet increaseth) Scattering for God, is like scattering Seed on the ground, that tendeth unto an increase (as the Beasts of old increased by Sacri<g ref="char:EOLhyphen"/>ficing) Giving to others, is a storing <note place="margin">The <hi>Italian</hi> form of begging is do good to your selves.</note> up for our selves. Taking from the Heap, is adding to it; and by being Benefactors to others, we are greater to our selves. What is given to the Poor, is Lent; and that, not to a Bankrupt, that can<g ref="char:EOLhyphen"/>not repay it, but to God, the High Possessor of Heaven, and Earth, that can; (for the Earth is his, and the fulness thereof) not to one that is dishonest, and will not, but to God, that is Faithful (as Faithful as God) and will; it is no desperate Debt, for it is lent
+<pb n="107" facs="tcp:204176:59"/> upon Bond to God, that stands Principal in the Bond, and needs none to be bound with him to secure it; for his Truth in the Promise is security enough (above any ensuring office) what he bor<g ref="char:EOLhyphen"/>rows, <note place="margin">Prov. 19. 17.</note> he will repay to the full, yea, with an overplus; an Inte<g ref="char:EOLhyphen"/>rest, <note place="margin">Matth. 25. 40. <hi>Deus se ex credi<g ref="char:EOLhyphen"/>tore debitorem fecit.</hi>
+                  </note> more than the Principal, a hundred-fold; Use upon Use: Not Ten in the Hundred, but a Hundred upon One, and present pay too; for it is a Hundred-fold in this Life, <hi>viz.</hi> either in Kind, or Vertue. And if that is not e<g ref="char:EOLhyphen"/>nough, the Promise super-adds in the World to come Life Everlast<g ref="char:EOLhyphen"/>ing. Mercy, in a time of need, Mercy, when we shall most need and desire it. New Wine in the Kingdom, for a Cup of cold Wa<g ref="char:EOLhyphen"/>ter; a Feast, for broken Meat; and Everlasting Life, for support<g ref="char:EOLhyphen"/>ing the Temporary and Frail Life of the Poor and Indigent.</p>
+               <pb n="108" facs="tcp:204176:60"/>
+               <p>They that are afraid to be Chari<g ref="char:EOLhyphen"/>table, either are afraid they shall be Happy, or unwilling to be so.</p>
+               <p>How great then is their Sin, who instead of Honouring God with his Mercies, Dishonour him by them; use them, either as Means or Motives to Sin, and <hi>(Parthian</hi>
+                  <note place="margin">Parthianis auri, argentique nullus nisi in armis usus est.</note> like) fight against God with his own Weapons; who no sooner get their Portion, but (with the Prodigal) become Wanton, and Rebel against him; make Idols (with the <hi>Israelites)</hi> out of his Je<g ref="char:EOLhyphen"/>wels; and commit Idolatry in the Valley, when he is giving the Law in the Mount; become bold in Sin, and mad upon their Lusts, because they are not surpriz'd in them, (like some ill Natures that are the worse for Kindness); use
+<pb n="109" facs="tcp:204176:60"/> their Wealth as Fuel to Luxury (the Rust of their unsanctify'd Riches); their Parts, as Ad<g ref="char:EOLhyphen"/>vantages to a more Ingenious Wickedness; their Health and Strength in subserviency to their Sensual Pleasures, and their Hon<g ref="char:EOLhyphen"/>ours, as a Rise to Pride; Erect<g ref="char:EOLhyphen"/>ing a Building for their Glory (as <hi>Nebuchadnezzar)</hi> with Stones dug out of gods Quarry (like Vapours that Ascend, and cloud the Sun that rais'd them) feed their Lusts out of Gods Provi<g ref="char:EOLhyphen"/>sion for their Flesh, (like some Soil, the more Rank under Sho<g ref="char:EOLhyphen"/>wers of Rain); prepare his Wooll and Flax for <hi>Baal,</hi> set <note place="margin">Hos. 2. 8.</note> his Meat before Idols, and pour out his Wine as Drink-Offer<g ref="char:EOLhyphen"/>ings to the Devil, whose Chil<g ref="char:EOLhyphen"/>dren they are, and in this so <note place="margin">Rom. 13. 14.</note> much resemble him.</p>
+               <pb n="110" facs="tcp:204176:61"/>
+               <p>To requite Good with Good, is Humane; Evil with Good, is God-like; but to return Evil for Good is Devilish.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="111" facs="tcp:204176:61"/>
+               <head>CHAP. X.</head>
+               <argument>
+                  <p>The things of the World in the Want, or Loss of them, when Deny'd or Remov'd, With<g ref="char:EOLhyphen"/>held or Withdrawn, not Gi<g ref="char:EOLhyphen"/>ven to us, or Taken from us, must be no matter of our Dis<g ref="char:EOLhyphen"/>content.</p>
+               </argument>
+               <p>THE Object of Impatience is something Positive, the Object of Discontent is something Privative; one arises from the presence of Evil, the o<g ref="char:EOLhyphen"/>ther from the absence of Good; That, from suffering too much, This, from having too little; and
+<pb n="112" facs="tcp:204176:62"/> Murmuring too often as an effect of both.</p>
+               <p>When Evils are upon us, we Murmur and Repine, as unwil<g ref="char:EOLhyphen"/>ling to bear them; and when the Good we either Desire, or Enjoy is withheld, or withdrawn, we complain as Undone, greatly la<g ref="char:EOLhyphen"/>ment their Loss (as <hi>Micah</hi> did <note place="margin">Judg. 18. 24.</note> the loss of his Idols) and send our Hearts away with them, and there<g ref="char:EOLhyphen"/>by become more Miserable in the Loss, then ever we were Happy in the Enjoyment of them, Re<g ref="char:EOLhyphen"/>proach God, act contrary to our Duty, the principles of Nature, and Grace, and discover both our Pride and Folly by it.</p>
+               <p>We Reproach God.</p>
+               <p>None of our Mercies (no more than any of our Miseries) come by Chance; it is not Fortune, but God, that has a hand in all, who is a Law to himself, and cannot
+<pb n="113" facs="tcp:204176:62"/> Erre; for, his Will is the Rule of his Justice, and by not submitting to it, we Reproach him: For we question his Soveraignty, and de<g ref="char:EOLhyphen"/>ny the Right he has to dispose of us as he pleases, and in effect say (as they to <hi>Moses</hi> and <hi>Aaron)</hi>
+                  <note place="margin">Numb. 16. 3.</note> that he takes too much upon him, and shall not be a God over us, we tax his Wisdom, and cast a Reproach of Folly upon his pro<g ref="char:EOLhyphen"/>ceedings, as if he knew not (or not so well as our selves) what Condition is best for us, we im<g ref="char:EOLhyphen"/>peach his Justice, as if he did us wrong, and kept back our due; and abuse his Goodness, for in effect we say, that either he has not done, or will not do good unto us; and that he has given us nothing, because not all that we would have, (wherein hast thou <note place="margin">Mal. 1. 2.</note> loved us!) And by all, offer the highest Affront and Indignity ima<g ref="char:EOLhyphen"/>ginable to him: For, as he is too Great to be resisted, so he is too
+<pb n="114" facs="tcp:204176:63"/> Just to be question'd, too Good to be suspected, and too Wise to be instructed; for he is Infinite in Wisdom, and needs no Counsel<g ref="char:EOLhyphen"/>lor, <note place="margin">Isa. 40. 13.</note> his Soveraignty is uncontrol<g ref="char:EOLhyphen"/>able, his Righteousness untaxable, his Wisdom unsearchable, and his Goodness unspeakable.</p>
+               <p>We are worse than Devils, if we think better of our selves, than of God.</p>
+               <p>We act contrary to our Duty; for,</p>
+               <p>It is as much our Duty to be Content under what we want, as to be thankful for what we have; and there is great reason we should, for our Miseries can never be so great, nor our Wants so many, but we have something to bless God for.</p>
+               <p>Any thing on this side Hell is Mercy.</p>
+               <pb n="115" facs="tcp:204176:63"/>
+               <p>We act contrary to the princi<g ref="char:EOLhyphen"/>ples of Nature and Grace.</p>
+               <p>Of Nature.</p>
+               <p>For Nature is content with a little; at first a Cradle contents us, and at last, a little Earth for a Grave will suffice us. In the Womb (as is usually said) one Foot, in the Cradle three, and in the Grave six will serve, and therefore, be<g ref="char:EOLhyphen"/>twixt the Womb and the Grave, a little should please, and content us.</p>
+               <p>A little is enough, too much may be a Snare.</p>
+               <p>Of Grace.</p>
+               <p>As Nature is content with a lit<g ref="char:EOLhyphen"/>tle, so Grace is with less, for the noblest part of it consists, in the Guidance of the Affections, that
+<pb n="116" facs="tcp:204176:64"/> they may not be carried out to wrong Objects, nor inordinately, to them that are right and pro<g ref="char:EOLhyphen"/>per.</p>
+               <p>It is neither Nature nor Grace, but Lust that is Ravenous, and enlarges its desire as Hell.</p>
+               <p>We discover our Pride and Folly by it.</p>
+               <p>Our Pride.</p>
+               <p>Humility and Pride are like the two ends of the prospective Glass, one, magnifies the Object, the o<g ref="char:EOLhyphen"/>ther, lessens it; Humility looks upon every thing given, more than Desert, Pride, on every thing as less; that, is content with Ne<g ref="char:EOLhyphen"/>cessaries, this, is angry for want of Superfluities; that, desires but to live, this, to abound and be Wanton; that, is pleas'd with one, any, or the least Mercy, this, not
+<pb n="117" facs="tcp:204176:64"/> with a thousand, nor with any, unless it has all, a little matter will put Pride upon the fret, all Discontent is a Child of Pride; for,</p>
+               <p>Therefore we are angry at Gods Will, when it Crosses ours, be<g ref="char:EOLhyphen"/>cause we are proud, and would have our own.</p>
+               <p>Our Folly,</p>
+               <p>It is one thing to have Riches, another thing not to want them; we may want them, while we have <note place="margin">Avaro deest tam quod habet quam quod non habet.</note> them, by not being content with them; and be without them and yet not need them, by our not desiring them; we are Rich, not by possessing much, for we are poor in the midst of all, unless we are satisfy'd, but Rich, by need<g ref="char:EOLhyphen"/>ing nothing; for though poor, <note place="margin">2 Cor. 6. 10.</note> we are Rich, if we are contented; it is Contentment that gives Riches, for it gives enough, and not to
+<pb n="118" facs="tcp:204176:65"/> have much, or to desire no more is true Riches, but Riches cannot give Contentment, no more than Poverty can; they will rather in<g ref="char:EOLhyphen"/>crease our Desires, than abate or restrain them; and therefore it is Folly to seek it in them, nor can we by our Discontent, either re<g ref="char:EOLhyphen"/>cal what we have lost, or procure what we would have, and there<g ref="char:EOLhyphen"/>fore, as great Folly it is, to be dis<g ref="char:EOLhyphen"/>quieted at the loss or want of them. A Dwarf, by vexing or fretting cannot raise himself to a greater height in his Body, though he may in his Mind; (not add a Cubit to his Stature, though he may to his Pride); nor any by their Discontent or Frowardness, when under Want, or Pain, ei<g ref="char:EOLhyphen"/>ther supply or ease it, and there<g ref="char:EOLhyphen"/>fore, the highest Folly it is to at<g ref="char:EOLhyphen"/>tempt it.</p>
+               <p>The only way to have our Will is to be satisfy'd that God has his.</p>
+               <pb n="119" facs="tcp:204176:65"/>
+               <p>We have not the fee simple of outward Blessings, they are not entailed upon us, but only lent for a while. The Tenure we hold them by, is the good Plea<g ref="char:EOLhyphen"/>sure of God the Donor, who is our Benefactor, not our Debtor; he will call for them again, and may (without any Injustice) whenever he please, and often does, that we may receive all as new Gifts from him again, and be brought to a humble acknow<g ref="char:EOLhyphen"/>ledgement of him as our only Lord, and thankfulness to him, for the Loan of them.</p>
+               <p>God cannot give us so little, nor so short a Possession of it as we deserve.</p>
+               <p>God is infinitely Wise, and knows what condition is best for us, he is our Heavenly Father, and knows what Food to appoint,
+<pb n="120" facs="tcp:204176:66"/> our Heavenly Physician, and knows what Physick to prescribe, our highest Wisdom therefore, will be to acquiesce in his, as wil<g ref="char:EOLhyphen"/>ling to want, what he sees good to deny; and to suffer, what he sees fit to inflict: In every thing giving Thanks, <hi>viz.</hi> when poor, as well as when Rich; when emp<g ref="char:EOLhyphen"/>ty, as well as when full.</p>
+               <p>Every wheel moves according to the motion of the first, and all things move orderly above, how cross so ever they seem to move here below.</p>
+               <p>God withdraws the lesser lights, that we may behold the Sun; cuts off the Pipes that we may bathe in the Fountain; straitens us in this World, that we may be en<g ref="char:EOLhyphen"/>larged <note place="margin">Jam. 2. 5.</note> towards Heaven; makes <note place="margin">2 Cor. 6. 10.</note> us Poor, that he may enrich us; empties, that he may fill; denies, that he may give unto us; makes
+<pb n="121" facs="tcp:204176:66"/> us sorrowful, that we may find joy in him; and leaves nothing, that in him we may possess all things, yea Inherit them, which is <note place="margin">Rev. 21. 7.</note> more than to possess them. Our Wisdom therefore will be to sub<g ref="char:EOLhyphen"/>mit to him, and not by Discontent to attempt the frustrating of his ends, lest he disappoint ours.</p>
+               <p>It is better to lose all the good things of Life, than Godliness; <note place="margin">2 Pet. 1. 3.</note> yea Life it self, then either lose God, or abate in our Love to him.</p>
+               <p>The Heathen said, if <hi>Jupiter</hi> would give him Riches, he himself would procure a contented Mind; <note place="margin">Ego animum mi<g ref="char:EOLhyphen"/>hi aequum parabo</note> but Contentment is no more na<g ref="char:EOLhyphen"/>tural to us, than Happiness; nor to be found in our selves, nor any where without pains and difficulty. It is a Degree beyond Patience, the Quintessence of it, and harder to come by than Riches; for when
+<pb n="122" facs="tcp:204176:67"/> we have them, we are many times as far to seek for Contentment, as we were before we had them.</p>
+               <p>St. <hi>Paul</hi> learnt this Mystery in Christs School not in <hi>Gamaliel</hi>'s; and the most likely way to find it, is to seek it in Religion; for, Godliness is great Gain with Con<g ref="char:EOLhyphen"/>tentment, <note place="margin">Phil. 4. 11. 1 Tim. 6. 6, 7.</note> not, that the Gain of Godliness does depend upon the condition of our Contentment (though indeed there is little or no Religion without it) but that Contentment is an effect of Reli<g ref="char:EOLhyphen"/>gion, an overplus that comes in with all the Gain that it gives be<g ref="char:EOLhyphen"/>sides, (and becomes gain to us as it gives it) it has the Promise of Life that now is, and of that which is to come, and interests us in God, in whom, every thing desireable in an eminent way is to be found; enough, when all outward Mer<g ref="char:EOLhyphen"/>cies are gone, for he is vertually <note place="margin">Habet omnia qui habet habentem omnia.</note> all, and better than all.</p>
+               <pb n="123" facs="tcp:204176:67"/>
+               <p>All is not gone (was said of old) if <hi>Caesar</hi> is safe, nor any thing if God is ours.</p>
+               <p>Only this we must remember, that God will never be all unto us, until all without him be as no<g ref="char:EOLhyphen"/>thing; for if he must be all, then first all must be nothing.</p>
+               <p>The Loadstone draws not where the Adamant is.</p>
+               <p>There was a time when we had nothing; no Money in our Hands, nor Meat in our Mouths, nor any Cloaths on our Backs, we came Naked, and empty-handed into the World, and after a little while it will be so again. A little is enough while we are here, more than we brought with us into the World, or shall carry away; and would we but consider, that the World was made of nothing, and will ere
+<pb n="124" facs="tcp:204176:68"/> long be turn'd into its first no<g ref="char:EOLhyphen"/>thing; that we brought nothing into it, and shall carry away no<g ref="char:EOLhyphen"/>thing out of it, we would not be much disquieted at the want of any thing, but as careful for nothing, be content with any thing. <note place="margin">Phil. 4. 6.</note>
+               </p>
+               <p>Betwixt nothing and nothing a little may serve the turn.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204176:68"/>
+            <head>Books lately Printed for <hi>Tho. Parkhurst,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapside,</hi> near <hi>Mercers Chappel.</hi>
+            </head>
+            <p>A Hundred Select Sermons by <hi>Tho. Hor<g ref="char:EOLhyphen"/>ton,</hi> D. D.</p>
+            <p>Meditations upon our Saviours Parable of the Prodigal Son, being several Sermons on the 15th. Chapter of St. <hi>Lukes</hi> Gospel, in two Parts. By <hi>Obadiah Grew,</hi> D. D.</p>
+            <p>Sermons of Grace and Temptation, by <hi>Tho. Froysell.</hi> 4 to.</p>
+            <p>Baptismal Bonds renewed, being some Meditations upon Psal. 50. 5.</p>
+            <p>Closet Prayer: A Christians Duty, or a Treatise upon <hi>Mat.</hi> 6. 6. both by <hi>Oliver Hey<g ref="char:EOLhyphen"/>wood</hi> Minister of the Gospel. In <hi>Octavo.</hi>
+            </p>
+            <p n="1">1. The Conversion of the Soul, or a Dis<g ref="char:EOLhyphen"/>course explaining the Nature of that Con<g ref="char:EOLhyphen"/>version which is sincere, and directing and perswading all to cease their loving Sin and Death, and to turn to God and live. In <hi>Octavo.</hi>
+            </p>
+            <p n="2">2. Touchstone of Grace and Nature, with Meditations on the Sacrament of the Lords Supper.</p>
+            <p n="3">
+               <pb facs="tcp:204176:69"/>3. A Discourse of Conscience, Good or Bad, wherein there is Heaven or Hell on Earth.</p>
+            <p n="4">4. The Spirit of Prayer.</p>
+            <p n="5">5. The Excellent way of Love among Christians. All Five by <hi>Nathaniel Vincent</hi> Minister of the Gospel.</p>
+            <p>
+               <hi>Bartons</hi> Psalmes last Edition Enlarged.</p>
+            <p>Psalms compared with the Original Text, with 26 Non-conformist Ministers to it.</p>
+            <p>The Grand Charter granted by Jesus Christ, from <hi>Matth.</hi> 28. 18, 19, 20. by <hi>George Lawson.</hi>
+            </p>
+            <p>Mr. <hi>Tho. Vincents</hi> Catechism.</p>
+            <p>Principles of the Doctrine of Christ with their Applications in order to Practice, by <hi>Nich. Bifeild.</hi>
+            </p>
+            <p>A Brief Memorial of the Bible, or a Sum<g ref="char:EOLhyphen"/>mary of the Chief Mottoes contained in every Chapter of the Old and New Testament, done into Metre for the help of Memory, by <hi>J. C. M. A,</hi> In <hi>Octavo</hi> stitcht.</p>
+            <p>A Present to be given to teeming Women by their Husbands or Friends, containing Scripture Directions for Women with Child, how to prepare for the Hour of Travel,
+<pb facs="tcp:204176:69"/> by <hi>John Oliver</hi> Minister of the Gospel. In <hi>Octavo.</hi>
+            </p>
+            <p>A Serious Exhortation to self Examina<g ref="char:EOLhyphen"/>tion, delivered in five Sermons on the 2 <hi>Cor.</hi> 13. 5. by <hi>Thomas Wadsworth</hi> M. A. Minister of the Gospel, sometimes at <hi>Newington Butts Southwark.</hi> In <hi>Octavo,</hi>
+            </p>
+            <p>The difference between the Spots of the Godly and the Wicked, by Mr. <hi>Jeremiah Burroughs</hi> of <hi>Cripplegate.</hi>
+            </p>
+            <p>Scripture Warrant, sufficient proof for In<g ref="char:EOLhyphen"/>fant Baptism, being a Reply to Mr. <hi>Granthams</hi> Presumption no proof, by <hi>Giles Firmin.</hi> In <hi>Octavo.</hi>
+            </p>
+            <p>Mr. <hi>Wadsworth</hi>'s Remains, being Meditati<g ref="char:EOLhyphen"/>ons with Respect to the Lords Supper, <hi>&amp;c.</hi>
+            </p>
+            <p>Thoughtfulness for to Morrow.</p>
+            <p>The Redeemers Teares.</p>
+            <p>Charity in Reference to other Mens Sins. All Three by <hi>John How,</hi> Minister of the Gospel.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
